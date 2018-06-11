@@ -4,30 +4,54 @@ title: Index
 
 # Introduction
 A highly opinionated list of philosophers and their seminal works. For now this
-list is those books which I have or plan to read. The distinction between the
-two amounts to whether a short blurb has been given. For now the aim, for the
-most part, is to list those philosophers and those works which are under two
-hundred pages in length; exceptions will be noted. This, I feel, keeps the ball
-rolling for beginners who want to get their feet wet but don't want to put all
-their eggs in one philosophical basket.
+list is those books which I have or plan to read.
 
 # Overviews
 
 ## General introductions
-1. Russel's [The Problems of Philosophy](https://www.amazon.com/Problems-Philosophy-Bertrand-Russell-ebook/dp/B00A7LNK04)
+1. Blackburn's [Think](https://www.amazon.com/Think-Compelling-Introduction-Simon-Blackburn-ebook/dp/B006XCKJOQ)
+2. Russel's [The Problems of Philosophy](https://www.amazon.com/Problems-Philosophy-Bertrand-Russell-ebook/dp/B00A7LNK04)
 
    What is the nature of knowledge? How can we know? Is knowledge certain?
    Basically a book on epistemology that serves as a good introduction to the
    early modern rationalists and empiricists.
 
 ## Histories
-1. Warbuton's [A Little History of Philosophy](https://www.amazon.com/Little-History-Philosophy-Histories-ebook/dp/B005W9XXLW)
+1. Kenny's [A New History of Western Philosophy](https://www.amazon.com.au/New-History-Western-Philosophy-ebook/dp/B00ARGXJM8)
+
+   An in-depth but rewarding title which not only provides a chronological but
+   also thematic account of the history of philosophy. The chronological
+   account is given first with the thematic style introducing the logic and
+   language, epistemology, physics, metaphysics, mind and soul, ethics, and
+   theology of the era.
+
+2. Warbuton's [A Little History of Philosophy](https://www.amazon.com/Little-History-Philosophy-Histories-ebook/dp/B005W9XXLW)
 
    Short and to the point if you just want an overview of what each philosopher
-   "feels" like rather than an in-depth analysis. Favours the ethical view of
-   each philosopher rather than their metaphysical or epistemological views.
+   "feels" like rather than an in-depth analysis. Works well as an alternative
+   to Kenny's tome..
 
-2. Kenney's [A New History of Western Philosophy](https://www.amazon.com.au/New-History-Western-Philosophy-ebook/dp/B00ARGXJM8)
+# Start with the Greeks
+1. Hamilton's [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
+2. Waterfield's [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
+3. Plato's [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
+
+   The complete works but you don't have to read them all. To get a general
+   feel for Plato it's enough to read Meno, Euthyphro, Apology, and Crito which
+   is a tetralogy about The Trial of Socrates, then Symposium, Phaedrus,
+   Republic, and Phaedo which is a tetralogy about the soul.
+
+   If you really think you'll get into Plato it's best to start your journey
+   with Alcibiades, Lysis, Laches, and Charmides which is a tetralogy about
+   man. Following this you have Protagoras, Greater Hippias, Lesser Hippias,
+   and Gorgias which is a tetralogy about the sophists. From here you can read
+   the above two tetralogies about The Trial of Socrates and the Soul.
+
+   Following this there's Cratylus, Ion, Euthydemus, Menexenus which is a
+   tetralogy about the spoken and written word. Parmenides, Theaetetus,
+   Sophist, and Statesman is a tetralogy about dialectics. Finally Philebus,
+   Timaeus, Critias, and Laws makes up the final tetralogy in the journey which
+   is about the cosmos.
 
 # Early Modern Rationalists
 1. Descarte's [Discourse on Method and Meditations on First Philosophy](https://www.amazon.com/Discourse-Meditations-Philosophy-Hackett-Classics-ebook/dp/B00OZ4NQIU)
@@ -35,7 +59,7 @@ their eggs in one philosophical basket.
    "Cogito ergo sum," along with meditations on what can be known for certain
    and why God necessarily exists.
 
-2. Leibniz's [Discourse on Metaphysics and Monadology](https://www.amazon.com/Discourse-Metaphysics-Essays-Hackett-Classics-ebook/dp/B005IL1QMW)
+2. Leibniz's [Discourse on Metaphysics and Other Essays](https://www.amazon.com/Discourse-Metaphysics-Essays-Hackett-Classics-ebook/dp/B005IL1QMW)
 
    A discourse on why this is the best of all possible worlds, why God
    necessarily exists, and on monads; which you'll have to read to find out
