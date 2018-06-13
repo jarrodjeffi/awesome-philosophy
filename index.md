@@ -4,9 +4,9 @@ title: Index
 
 # Introduction
 The following is a highly opinionated list of what constitutes a proper reading
-of Western philosophy which currently covers the Greeks up to the early modern
-rationalists and empiricists. It should be noted that you can pick and choose
-your trajectory when approaching this list. However, it could be beneficial to
+of Western philosophy which currently covers the Greeks up to and including the
+early modern era. It should be noted that you can pick and choose your
+trajectory when approaching this list. However, it could be beneficial to
 approach the list in order as some philosophers make heavy reference and build
 upon previous philosophers.
 
@@ -140,3 +140,14 @@ that amounts to purchasing secondary sources to supplement your readings.
 1. Balibar: [Identity and Difference: John Locke and the Invention of Consciousness](https://www.amazon.com/Identity-Difference-Locke-Invention-Consciousness-ebook/dp/B00G2DODRK)
 2. Garrett: [Hume](https://www.amazon.com/Hume-Routledge-Philosophers-Don-Garrett-ebook/dp/B00PK5JPSS)
 3. Dicker: [Hume's Epistemology and Metaphysics](https://www.amazon.com/Humes-Epistemology-Metaphysics-Georges-Dicker-ebook/dp/B000FA5XUW)
+
+# Optional Early Modern
+1. Malebranche: *The Search After Truth*
+2. Malebranche: *Treatise on Nature and Grace*
+3. Malebranche: *Treatise on Ethics*
+4. Pascal: [Pensées](https://www.amazon.com/Pensées-Philosophical-Classics-Blaise-Pascal-ebook/dp/B00A0B0482)
+5. Pascal: *Provincial Letters*
+6. Bacon: [The New Organon](https://www.amazon.com/Francis-Bacon-Organon-Cambridge-Philosophy-ebook/dp/B00DO1HFO6)
+7. Bacon: [Essays](https://www.amazon.com/Essays-Classics-Francis-Bacon-ebook/dp/B002XHNMQW)
+8. Montaigne: [Essays](https://www.amazon.com/Complete-Essays-Michel-Montaigne-ebook/dp/B002RI92VQ)
+9. Bruno: [Cause, Principle and Unity: And Essays on Magic](https://www.amazon.com/Giordano-Bruno-Principle-Cambridge-Philosophy-ebook/dp/B001G6128G)
