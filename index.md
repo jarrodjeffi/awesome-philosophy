@@ -5,10 +5,17 @@ title: Index
 # Introduction
 The following is a highly opinionated list of what constitutes a proper reading
 of Western philosophy which currently covers the Greeks up to and including the
-early modern era. It should be noted that you can pick and choose your
-trajectory when approaching this list. However, it could be beneficial to
-approach the list in order as some philosophers make heavy reference and build
-upon previous philosophers.
+early modern era; though the early Greeks are the most fleshed out for now. It
+should be noted that you can pick and choose your trajectory when approaching
+this list. However, it could be beneficial to approach the list in order as
+some philosophers make heavy reference and build upon previous philosophers.
+
+## Sources
+This list and the reading order were compiled with help from:
+
+1. [/lit/ Philosophy Project 1.2](https://docs.google.com/document/d/1y8_RRaZW5X3xwztjZ4p0XeRplqebYwpmuNNpaN_TkgM/pub)
+2. [/lit/ wiki: Philosophy](http://4chanlit.wikia.com/wiki/Philosophy)
+3. [/lit/ wiki: Charts](http://4chanlit.wikia.com/wiki/Charts#Philosophy)
 
 # History
 One should read a history of Western Philosophy before they take the plunge
@@ -28,43 +35,73 @@ that amounts to purchasing secondary sources to supplement your readings.
 # Early Greeks
 1. [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
 2. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
-
-   The complete works but you don't have to read them all. To get a general
-   feel for Plato it's enough to read Meno, Euthyphro, Apology, and Crito which
-   is a tetralogy about The Trial of Socrates, then Symposium, Phaedrus,
-   Republic, and Phaedo which is a tetralogy about the soul.
-
-   If you really think you'll get into Plato it's best to start your journey
-   with Alcibiades, Lysis, Laches, and Charmides which is a tetralogy about
-   man. Following this you have Protagoras, Greater Hippias, Lesser Hippias,
-   and Gorgias which is a tetralogy about the sophists. From here you can read
-   the above two tetralogies about The Trial of Socrates and the soul.
-
-   Following this there's Cratylus, Ion, Euthydemus, Menexenus which is a
-   tetralogy about the spoken and written word. Parmenides, Theaetetus,
-   Sophist, and Statesman is a tetralogy about dialectics. Finally Philebus,
-   Timaeus, Critias, and Laws makes up the final tetralogy in the journey which
-   is about the cosmos.
-
+   1. Man: Alcibiades, Lysis, Laches, Charmides
+   2. Sophists: Protagoras, Greater Hippias, Lesser Hippias, Gorgias
+   3. Socrates: Meno, Euthyphro, Apology, Crito
+   4. Soul: Symposium, Phaedrus, Republic, Phaedo
+   5. *Logos:* Cratylus, Ion, Euthydemus, Menexenus
+   6. Dialectics: Parmenides, Theaetetus, Sophist, Statesman
+   7. Cosmos: Philebus, Timaeus, Critias, Laws
 3. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
+   1. Nicomachean Ethics
+   2. Politics
+   3. Poetics
+   4. Organon
+      1. Categories
+      2. De Interpretatione
+      3. Prior Analytics
+      4. Posterior Analytics
+      5. Topics
+      6. Sophistical Refutations
+   5. Physics
+   6. On the Soul
+   7. Metaphysics
+   8. Rhetoric
 
-   One should read Nicomachean Ethics, Politics, Poetics, The Organon, Physics,
-   On the Soul, Metaphysics, and Rhetoric in that order. The Organon is not a
-   single volume but many which includes Categories, De Interpretatione, Prior
-   Analytics, Posterior Analytics, Topics, and Sophistical Refutations.
+## Optional mythology, poems, histories, and plays
+1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
+2. Homer: [Iliad](https://www.amazon.com/Iliad-Penguin-Classics-Homer-ebook/dp/B003P9XCYO)
+3. Homer: [Odyssey](https://www.amazon.com/Odyssey-Penguin-Classics-Deluxe-ebook/dp/B000OCXGRS)
+4. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
+5. Aristophanes: [Clouds](https://www.amazon.com/Clouds-Aristophanes-ebook/dp/B00GNHN1JQ)
 
-4. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
+## Optional Presocratics
+1. Anaxagoras: *Fragments*
+2. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
+3. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
+4. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
+5. Democritus: *Fragments*
+6. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
+6. Brann: [The Logos of Heraclitus](https://www.amazon.com/Logos-Heraclitus-Eva-Brann-ebook/dp/B007I6WIJA)
+7. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
+8. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
+9. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
 
-   Also of note is Lucretius' poem [On the Nature of Things](https://www.amazon.com/Nature-Things-Lucretius-ebook/dp/B008KNO816).
+## Optional Socratics
+1. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
+2. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Persians-Other-Plays-Prometheus-Suppliants-ebook/dp/B004LLIHHW)
+
+## Optional Platonics
+1. Broadie: [Nature and Divinity in Plato's Timaeus](https://www.amazon.com/Nature-Divinity-Platos-Timaeus-Broadie-ebook/dp/B006H3TVOK)
+2. Kahn: [Plato and the Socratic Dialogue](https://www.amazon.com/Plato-Socratic-Dialogue-Philosophical-Literary-ebook/dp/B002EL4LS0)
+3. Johansen: [Plato's Natural Philosophy](https://www.amazon.com/Platos-Natural-Philosophy-Study-Timaeus-Critias-ebook/dp/B00ARF2HA4)
+4. Strauss: [The Argument and the Action of Plato's Laws](https://www.amazon.com/Argument-Action-Platos-Laws-ebook/dp/B00R4FQFAI)
+5. Meinwald: [Plato](https://www.amazon.com/Plato-Routledge-Philosophers-Constance-Meinwald-ebook/dp/B01F8X9FDQ)
+6. Fine: [Plato on Knowledge and Forms](https://www.amazon.com/Plato-Knowledge-Forms-Selected-Essays-ebook/dp/B002EZYXVQ)
+
+## Optional Aristotelian
+1. Shield: [Aristotle](https://www.amazon.com/Aristotle-Routledge-Philosophers-Christopher-Shields-ebook/dp/B00HSMEXKQ)
+2. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
+3. Nussbaum, Rorty: [Essay's on Aristotle's De Anima](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
+4. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
+
+## Optional Epicureanism
+1. Warren: [The Cambridge Companion to Epicureanism](https://www.amazon.com/Cambridge-Companion-Epicureanism-Companions-Philosophy-ebook/dp/B009T0IWWA)
+2. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
+3. Lucretius: [On the Nature of Things](https://www.amazon.com/Nature-Things-Lucretius-ebook/dp/B008KNO816)
 
 ## Optional Early Greeks
-1. Broadie: [Nature and Divinity in Plato's Timaeus](https://www.amazon.com/Nature-Divinity-Platos-Timaeus-Broadie-ebook/dp/B006H3TVOK)
-2. Nussbaum, Rorty: [Essay's on Aristotle's De Anime](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
-3. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
-4. Johansen: [Plato's Natural Philosophy](https://www.amazon.com/Platos-Natural-Philosophy-Study-Timaeus-Critias-ebook/dp/B00ARF2HA4)
-5. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
-6. Strauss: [The Argument and the Action of Plato's Laws](https://www.amazon.com/Argument-Action-Platos-Laws-ebook/dp/B00R4FQFAI)
-7. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
+1. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
 
 # Further Greeks and Romans
 1. Seneca: [Dialogues and Essays](https://www.amazon.com/Dialogues-Essays-Oxford-Worlds-Classics-ebook/dp/B005JJ9RN8)
@@ -82,6 +119,7 @@ that amounts to purchasing secondary sources to supplement your readings.
 2. Yount: [Plotinus the Platonist](https://www.amazon.com/Plotinus-Platonist-Comparative-Metaphysics-Bloomsbury-ebook/dp/B00O8MOLAG)
 3. Kalligas: [The Enneads of Plotinus, Volume 1: A Commentary](https://www.amazon.com/Enneads-Plotinus-Commentary-Paul-Kalligas-ebook/dp/B00KZY6B0Y)
 4. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
+5. Gregory: [The Neoplatonists](https://www.amazon.com/Neoplatonists-John-Gregory-ebook/dp/B00K1ZV6PC)
 
 # Middle Ages
 1. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
