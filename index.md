@@ -124,8 +124,11 @@ perhaps even reading them first.
 3. Aurelius: [Meditations](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4)
 
 ## Secondary: Skepticism
-1. Maccoll: *The Greek Sceptics: From Pyrrho to Sextus*
-2. Empiricus: *The Outlines of Pyrrhonism*
+1. Empiricus: *Outlines of Pyrrhonism*
+2. Maccoll: *The Greek Sceptics: From Pyrrho to Sextus*
+3. Empiricus: *The Outlines of Pyrrhonism*
+4. Sinnott-Armstrong: [Pyrrhonian Skepticism](https://www.amazon.com/Pyrrhonian-Skepticism-Walter-Sinnott-Armstrong-ebook/dp/B000TRI9DE)
+5. Bett: [The Cambridge Companion to Ancient Scepticism](https://www.amazon.com/Cambridge-Companion-Scepticism-Companions-Philosophy-ebook/dp/B009UTF1TM)
 
 ## Eclecticism
 1. Cicero: [On the Commonwealth and On the Laws](https://www.amazon.com/Cicero-Commonwealth-Cambridge-History-Political-ebook/dp/B07316NQ7B)
