@@ -73,11 +73,9 @@ perhaps even reading them first.
 4. Dobbin: [The Cynic Philosophers](https://www.amazon.com/Cynic-Philosophers-Diogenes-Penguin-Classics-ebook/dp/B009NXUQG8)
 
 ## Secondary: Socratics
-1. Xenophon: [Conversations of Socrates](https://www.amazon.com/Conversations-Socrates-Classics-Xenophon-ebook/dp/B002RI94JG)
-2. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
-3. Aristophanes: [Clouds](https://www.amazon.com/Clouds-Aristophanes-ebook/dp/B00GNHN1JQ)
-4. Plato, Aristophanes, Xenophone: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
-5. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
+1. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
+2. Plato, Aristophanes, Xenophone: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
+3. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
 
 ## Early Greeks
 1. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
