@@ -173,7 +173,7 @@ perhaps even reading them first.
 
 ## Aristotelian Revival
 1. Aquinas: *Summa Theologica*
-2. Aquinas: [Selected Writings](https://www.amazon.com/Selected-Writings-Penguin-Classics-Aquinas-ebook/dp/B002RI9JR8)
+2. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
 3. Scotus: *The Ordinatio*
 4. Scotus: *Tractatus de Primo Principio (Treatise on the First Principle)*
 5. Scotus: [Selected Writings on Ethics](https://www.amazon.com/John-Duns-Scotus-Selected-Writings-ebook/dp/B06XHMCSGK)
