@@ -39,9 +39,31 @@ perhaps even reading them first.
 
 # Classic Philosophy
 
-## Early Greeks
+## Mythology, Poems, Histories, and Plays
+1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
+2. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
+3. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
+4. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
+5. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
+6. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
+
+## Presocratics
 1. [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
-2. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
+2. Anaxagoras: *Fragments*
+3. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
+4. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
+5. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
+6. Democritus: *Fragments*
+
+## Secondary: Presocratics
+1. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
+2. Brann: [The Logos of Heraclitus](https://www.amazon.com/Logos-Heraclitus-Eva-Brann-ebook/dp/B007I6WIJA)
+3. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
+4. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
+5. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
+
+## Early Greeks
+1. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
    1. Alcibiades, Lysis, Laches, Charmides
    2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
    3. Meno, Euthyphro, Apology, Crito
@@ -49,7 +71,7 @@ perhaps even reading them first.
    5. Cratylus, Ion, Euthydemus, Menexenus
    6. Parmenides, Theaetetus, Sophist, Statesman
    7. Philebus, Timaeus, Critias, Laws
-3. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
+2. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
    1. Nicomachean Ethics
    2. Politics
    3. Poetics
@@ -64,28 +86,6 @@ perhaps even reading them first.
    6. On the Soul
    7. Metaphysics
    8. Rhetoric
-
-## Mythology, Poems, Histories, and Plays
-1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
-2. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
-3. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
-4. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
-5. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
-6. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
-
-## Presocratics
-1. Anaxagoras: *Fragments*
-2. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
-3. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
-4. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
-5. Democritus: *Fragments*
-
-## Secondary: Presocratics
-1. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
-2. Brann: [The Logos of Heraclitus](https://www.amazon.com/Logos-Heraclitus-Eva-Brann-ebook/dp/B007I6WIJA)
-3. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
-4. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
-5. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
 
 ## Secondary: Socratics
 1. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
