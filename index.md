@@ -112,9 +112,9 @@ perhaps even reading them first.
 
 ## Secondary: Aristotelian
 1. Shields: [Aristotle](https://www.amazon.com/Aristotle-Routledge-Philosophers-Christopher-Shields-ebook/dp/B00HSMEXKQ)
-2. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
-3. Nussbaum, Rorty: [Essay's on Aristotle's De Anima](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
-4. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
+2. Nussbaum, Rorty: [Essay's on Aristotle's De Anima](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
+3. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
+4. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
 
 ## Epicureanism
 1. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
@@ -149,11 +149,11 @@ perhaps even reading them first.
 1. Rappe: *Reading Neoplatonism*
 2. Wallis: *Neoplatonism*
 3. Remes: *Neoplatonism*
-4. Kalligis: [The Enneads of Plotinus, Volume 1](https://www.amazon.com/Enneads-Plotinus-Commentary-Paul-Kalligas-ebook/dp/B00KZY6B0Y)
-5. Deck: [Nature, Contemplation, and the One](https://www.amazon.com/Nature-Contemplation-One-Philosophy-Plotinus-ebook/dp/B01N6QXLV3)
-6. Yount: [Plotinus the Platonist](https://www.amazon.com/Plotinus-Platonist-Comparative-Metaphysics-Bloomsbury-ebook/dp/B00O8MOLAG)
-7. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
-8. Gregory: [The Neoplatonists](https://www.amazon.com/Neoplatonists-John-Gregory-ebook/dp/B00K1ZV6PC)
+4. Gregory: [The Neoplatonists](https://www.amazon.com/Neoplatonists-John-Gregory-ebook/dp/B00K1ZV6PC)
+5. Kalligis: [The Enneads of Plotinus, Volume 1](https://www.amazon.com/Enneads-Plotinus-Commentary-Paul-Kalligas-ebook/dp/B00KZY6B0Y)
+6. Deck: [Nature, Contemplation, and the One](https://www.amazon.com/Nature-Contemplation-One-Philosophy-Plotinus-ebook/dp/B01N6QXLV3)
+7. Yount: [Plotinus the Platonist](https://www.amazon.com/Plotinus-Platonist-Comparative-Metaphysics-Bloomsbury-ebook/dp/B00O8MOLAG)
+8. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
 
 # Christian and Medieval Philosophy
 
