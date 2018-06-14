@@ -174,6 +174,11 @@ perhaps even reading them first.
 ## Aristotelian Revival
 1. Aquinas: *Summa Theologica*
 2. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
+3. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
+4. Aquinas: [The Treatise on Human Nature](https://www.amazon.com/Treatise-Human-Nature-Theologiae-Hackett-ebook/dp/B00LVCVBNG)
+5. Aquinas: [Commentary on Aristotle's Politics](https://www.amazon.com/Commentary-Aristotles-Politics-One-Loves-ebook/dp/B005INZMCU)
+6. Aquinas: [Treatise on Law](https://www.amazon.com/Treatise-Hackett-Classics-Thomas-Aquinas-ebook/dp/B00OZ4NLXA)
+7. Aquinas: [The Treatise on Happiness • The Treatise on Human Acts](https://www.amazon.com/Treatise-Happiness-Human-Hackett-Aquinas-ebook/dp/B01N4NMI2F)
 3. Scotus: *The Ordinatio*
 4. Scotus: *Tractatus de Primo Principio (Treatise on the First Principle)*
 5. Scotus: [Selected Writings on Ethics](https://www.amazon.com/John-Duns-Scotus-Selected-Writings-ebook/dp/B06XHMCSGK)
