@@ -49,10 +49,10 @@ perhaps even reading them first.
 
 ## Presocratics
 1. [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
-2. Anaxagoras: *Fragments*
-3. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
-4. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
-5. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
+2. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
+3. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
+4. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
+5. Anaxagoras: *Fragments*
 6. Democritus: *Fragments*
 
 ## Secondary: Presocratics
@@ -61,6 +61,23 @@ perhaps even reading them first.
 3. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
 4. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
 5. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
+6. Wedin: [Parmenides' Grand Deduction](https://www.amazon.com/Parmenides-Grand-Deduction-Logical-Reconstruction-ebook/dp/B00PFXHRU8)
+7. Marmodoro: [Everything in Everything: Anaxagoras' Metaphysics](https://www.amazon.com/Everything-Anaxagorass-Metaphysics-Anna-Marmodoro-ebook/dp/B06WWM3JKP)
+8. Cleve: [The Philosophy of Anaxagoras](https://www.amazon.com/Philosophy-Anaxagoras-F-M-Cleve-ebook/dp/B00FCC2IFG)
+9. Tor: [Mortal and Divine in Early Greek Epistemology](https://www.amazon.com/Mortal-Divine-Early-Greek-Epistemology-ebook/dp/B075V8DFGZ)
+
+## Secondary: Cynicism
+1. Branham: *The Cynics*
+2. Sayre: *Diogenes of Sinope*
+3. Hard: [Sayings and Anecdotes](https://www.amazon.com/Sayings-Anecdotes-Popular-Moralists-Classics-ebook/dp/B008ESC9S6)
+4. Dobbin: [The Cynic Philosophers](https://www.amazon.com/Cynic-Philosophers-Diogenes-Penguin-Classics-ebook/dp/B009NXUQG8)
+
+## Secondary: Socratics
+1. Xenophon: [Conversations of Socrates](https://www.amazon.com/Conversations-Socrates-Classics-Xenophon-ebook/dp/B002RI94JG)
+2. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
+3. Aristophanes: [Clouds](https://www.amazon.com/Clouds-Aristophanes-ebook/dp/B00GNHN1JQ)
+4. Plato, Aristophanes, Xenophone: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
+5. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
 
 ## Early Greeks
 1. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
@@ -87,10 +104,6 @@ perhaps even reading them first.
    7. Metaphysics
    8. Rhetoric
 
-## Secondary: Socratics
-1. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
-2. Aristophanes: [Clouds](https://www.amazon.com/Clouds-Aristophanes-ebook/dp/B00GNHN1JQ)
-
 ## Secondary: Platonics
 1. Meinwald: [Plato](https://www.amazon.com/Plato-Routledge-Philosophers-Constance-Meinwald-ebook/dp/B01F8X9FDQ)
 2. Kahn: [Plato and the Socratic Dialogue](https://www.amazon.com/Plato-Socratic-Dialogue-Philosophical-Literary-ebook/dp/B002EL4LS0)
@@ -104,12 +117,6 @@ perhaps even reading them first.
 2. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
 3. Nussbaum, Rorty: [Essay's on Aristotle's De Anima](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
 4. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
-
-## Secondary: Cynicism
-1. Branham: *The Cynics*
-2. Sayre: *Diogenes of Sinope*
-3. Hard: [Sayings and Anecdotes](https://www.amazon.com/Sayings-Anecdotes-Popular-Moralists-Classics-ebook/dp/B008ESC9S6)
-4. Dobbin: [The Cynic Philosophers](https://www.amazon.com/Cynic-Philosophers-Diogenes-Penguin-Classics-ebook/dp/B009NXUQG8)
 
 ## Epicureanism
 1. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
