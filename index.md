@@ -3,19 +3,23 @@ title: Index
 ---
 
 # Introduction
-The following is a highly opinionated list of what constitutes a proper reading
-of Western philosophy which currently covers the Greeks up to and including the
-early modern era; though the early Greeks are the most fleshed out for now. It
-should be noted that you can pick and choose your trajectory when approaching
-this list. However, it could be beneficial to approach the list in order as
-some philosophers make heavy reference and build upon previous philosophers.
+The following is a list of what could constitute a proper reading of Western
+philosophy which currently covers the Greeks up to and including the early
+modern era. It should be noted that you should pick and choose your trajectory
+when approaching this list. However, it could be beneficial to approach some
+things in order as philosophers usually make reference and build upon previous
+thought. However, if you do read Kenney's history you should be able to
+approach the list from any angle.
 
-## Sources
-This list and the reading order were compiled with help from:
+# Sources
+This list and the reading order were compiled with significant reference to:
 
 1. [/lit/ Philosophy Project 1.2](https://docs.google.com/document/d/1y8_RRaZW5X3xwztjZ4p0XeRplqebYwpmuNNpaN_TkgM/pub)
 2. [/lit/ wiki: Philosophy](http://4chanlit.wikia.com/wiki/Philosophy)
 3. [/lit/ wiki: Charts](http://4chanlit.wikia.com/wiki/Charts#Philosophy)
+
+Basically it's [4chan's](http://boards.4chan.org/lit/catalog) philosophy
+resources with links to Kindle versions where applicable.
 
 # History
 One should read a history of Western Philosophy before they take the plunge
@@ -30,20 +34,21 @@ and soul, ethics, and theology of the era.
 Getting a general gist of what each philosopher you'll encounter in this list
 is about is an important first step to understanding. This isn't a work of
 fiction where you can get spoilers, take on all the support you need even if
-that amounts to purchasing secondary sources to supplement your readings.
+that amounts to purchasing secondary sources to supplement your readings and
+perhaps even reading them first.
 
 # Classic Philosophy
 
-## Core
+## Early Greeks
 1. [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
 2. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
-   1. Man: Alcibiades, Lysis, Laches, Charmides
-   2. Sophists: Protagoras, Greater Hippias, Lesser Hippias, Gorgias
-   3. Socrates: Meno, Euthyphro, Apology, Crito
-   4. Soul: Symposium, Phaedrus, Republic, Phaedo
-   5. *Logos:* Cratylus, Ion, Euthydemus, Menexenus
-   6. Dialectics: Parmenides, Theaetetus, Sophist, Statesman
-   7. Cosmos: Philebus, Timaeus, Critias, Laws
+   1. Alcibiades, Lysis, Laches, Charmides
+   2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
+   3. Meno, Euthyphro, Apology, Crito
+   4. Symposium, Phaedrus, Republic, Phaedo
+   5. Cratylus, Ion, Euthydemus, Menexenus
+   6. Parmenides, Theaetetus, Sophist, Statesman
+   7. Philebus, Timaeus, Critias, Laws
 3. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
    1. Nicomachean Ethics
    2. Politics
@@ -132,7 +137,7 @@ that amounts to purchasing secondary sources to supplement your readings.
 2. Plotinus: [The Enneads](https://www.amazon.com/Plotinus-Enneads-LP-Classic-Reprint-ebook/dp/B00EVU80KW)
 3. Proclus: *The Elements of Theology*
 
-### Secondary: Neoplatonism
+## Secondary: Neoplatonism
 1. Rappe: *Reading Neoplatonism*
 2. Wallis: *Neoplatonism*
 3. Remes: *Neoplatonism*
@@ -142,7 +147,7 @@ that amounts to purchasing secondary sources to supplement your readings.
 7. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
 8. Gregory: [The Neoplatonists](https://www.amazon.com/Neoplatonists-John-Gregory-ebook/dp/B00K1ZV6PC)
 
-# Christian and Medieval
+# Christian and Medieval Philosophy
 
 ## Gnostic Christianity
 1. Pearson: [Ancient Gnosticism](https://www.amazon.com/Ancient-Gnosticism-Traditions-Birger-Pearson-ebook/dp/B001D25X42)
@@ -196,7 +201,9 @@ that amounts to purchasing secondary sources to supplement your readings.
 4. McGinn: [The Mystical Thought of Meister Eckhart](https://www.amazon.com/Mystical-Thought-Meister-Eckhart-Nothing-ebook/dp/B07BLNXWKQ)
 5. Schurmann: [Wandering Joy](https://www.amazon.com/Wandering-Joy-Reiner-Schurmann-ebook/dp/B008062DYM)
 
-# Early Modern Rationalists
+# Modern Philosophy
+
+## Early Modern Rationalists
 1. Descarte: [Philosophical Writings I](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
 2. Descarte: [Philosophical Writings II](https://www.amazon.com/Philosophical-Writings-Descartes-2-ebook/dp/B00D2WQ6HE)
 3. Descarte: [Philosophical Writings III](https://www.amazon.com/Philosophical-Writings-Descartes-Correspondence-ebook/dp/B00FF6Q3FU)
@@ -204,20 +211,22 @@ that amounts to purchasing secondary sources to supplement your readings.
 5. Leibniz: [Philosophical Essays](https://www.amazon.com/Leibniz-Philosophical-Essays-Hackett-Classics-ebook/dp/B00D5VKFR4)
 
 ## Secondary: Early Modern Rationalists
-1. Sorell: [Descartes: A Very Short Introduction](https://www.amazon.com/Descartes-Very-Short-Introduction-Introductions-ebook/dp/B005LNKJ8O)
-2. Wilson: [Descartes' Meditations: An Introduction](https://www.amazon.com/Descartess-Meditations-Introduction-Introductions-Philosophical-ebook/dp/B003Y8XLTW)
-3. Cottingham: [Cartesian Reflections](https://www.amazon.com/Cartesian-Reflections-Essays-Descartess-Philosophy-ebook/dp/B001NXCXTO)
-4. Hatfield: [The Routledge Guidebook to Descartes' Meditations](https://www.amazon.com/Routledge-Guidebook-Descartes-Meditations-Guides-ebook/dp/B00LPK9FSC)
-5. Nadler: [Spinoza's 'Ethics': An Introduction](https://www.amazon.com/Spinozas-Ethics-Introduction-Introductions-Philosophical-ebook/dp/B000SHMFJO)
-6. Rocca: [Spinoza](https://www.amazon.com/Spinoza-Routledge-Philosophers-Michael-Della-ebook/dp/B000SMD1E2)
-7. Melamed, Rosenthal: [Spinoza's 'Theological-Political' Treatise](https://www.amazon.com/Spinozas-Theological-Political-Treatise-Cambridge-Critical-ebook/dp/B004P1JF7Y)
-8. Strauss: [Spinoza's Critique of Religion](https://www.amazon.com/Spinozas-Critique-Religion-Leo-Strauss-ebook/dp/B01EYG40LK)
-9. Jolley: [Leibniz](https://www.amazon.com/Leibniz-Routledge-Philosophers-Nicholas-Jolley-ebook/dp/B000OT7UPU)
-10. Savile: [Routledge Philosophy GuideBook to Leibniz and the Monadology](https://www.amazon.com/Routledge-Philosophy-GuideBook-Monadology-GuideBooks-ebook/dp/B000FA617G)
-11. Garber: [Body, Substance, Monad](https://www.amazon.com/Leibniz-Substance-Monad-Daniel-Garber-ebook/dp/B005LQCT48)
-12. Voltaire: [Candide](https://www.amazon.com.au/Candide-AmazonClassics-Voltaire-ebook/dp/B073QR7YB9)
+1. Stewart: *The Courtier and the Heretic*
+2. Hall: *Philosophers at War*
+3. Sorell: [Descartes: A Very Short Introduction](https://www.amazon.com/Descartes-Very-Short-Introduction-Introductions-ebook/dp/B005LNKJ8O)
+4. Wilson: [Descartes' Meditations: An Introduction](https://www.amazon.com/Descartess-Meditations-Introduction-Introductions-Philosophical-ebook/dp/B003Y8XLTW)
+5. Cottingham: [Cartesian Reflections](https://www.amazon.com/Cartesian-Reflections-Essays-Descartess-Philosophy-ebook/dp/B001NXCXTO)
+6. Hatfield: [The Routledge Guidebook to Descartes' Meditations](https://www.amazon.com/Routledge-Guidebook-Descartes-Meditations-Guides-ebook/dp/B00LPK9FSC)
+7. Nadler: [Spinoza's 'Ethics': An Introduction](https://www.amazon.com/Spinozas-Ethics-Introduction-Introductions-Philosophical-ebook/dp/B000SHMFJO)
+8. Rocca: [Spinoza](https://www.amazon.com/Spinoza-Routledge-Philosophers-Michael-Della-ebook/dp/B000SMD1E2)
+9. Melamed, Rosenthal: [Spinoza's 'Theological-Political' Treatise](https://www.amazon.com/Spinozas-Theological-Political-Treatise-Cambridge-Critical-ebook/dp/B004P1JF7Y)
+10. Strauss: [Spinoza's Critique of Religion](https://www.amazon.com/Spinozas-Critique-Religion-Leo-Strauss-ebook/dp/B01EYG40LK)
+11. Jolley: [Leibniz](https://www.amazon.com/Leibniz-Routledge-Philosophers-Nicholas-Jolley-ebook/dp/B000OT7UPU)
+12. Savile: [Routledge Philosophy GuideBook to Leibniz and the Monadology](https://www.amazon.com/Routledge-Philosophy-GuideBook-Monadology-GuideBooks-ebook/dp/B000FA617G)
+13. Garber: [Body, Substance, Monad](https://www.amazon.com/Leibniz-Substance-Monad-Daniel-Garber-ebook/dp/B005LQCT48)
+14. Voltaire: [Candide](https://www.amazon.com.au/Candide-AmazonClassics-Voltaire-ebook/dp/B073QR7YB9)
 
-# Early Modern Empiricists
+## Early Modern Empiricists
 1. Locke: *Concerning Education*
 2. Locke: *Concerning Tolerance*
 3. Locke: [Two Treatise of Government](https://www.amazon.com/Locke-Treatises-Government-Cambridge-Political-ebook/dp/B00E3UR9Z2)
@@ -232,15 +241,17 @@ that amounts to purchasing secondary sources to supplement your readings.
 12. Hume: [Principles of Morals](https://www.amazon.com/Enquiry-Concerning-Principles-Hackett-Classics-ebook/dp/B00OZ4NIYC)
 
 ## Secondary: Early Modern Empiricists
-1. Balibar: [Identity and Difference: John Locke and the Invention of Consciousness](https://www.amazon.com/Identity-Difference-Locke-Invention-Consciousness-ebook/dp/B00G2DODRK)
-2. Berman: *George Berkeley: Idealism and the Man*
-2. Garrett: [Hume](https://www.amazon.com/Hume-Routledge-Philosophers-Don-Garrett-ebook/dp/B00PK5JPSS)
-3. Dicker: [Hume's Epistemology and Metaphysics](https://www.amazon.com/Humes-Epistemology-Metaphysics-Georges-Dicker-ebook/dp/B000FA5XUW)
-4. Baier: [A Progress of Sentiments](https://www.amazon.com/Progress-Sentiments-Annette-C-BAIER-ebook/dp/B003Z0BKL0)
-5. Baier: *Death & Character*
-6. Howson: [Hume's Problem](https://www.amazon.com/Humes-Problem-Induction-Justification-Belief-ebook/dp/B001KYFN1G)
+1. Roth: *British Empiricism and American Pragmatism*
+2. Lowe: [Locke](https://www.amazon.com/Locke-Routledge-Philosophers-J-Lowe-ebook/dp/B000OT8AUE)
+3. Balibar: [Identity and Difference: John Locke and the Invention of Consciousness](https://www.amazon.com/Identity-Difference-Locke-Invention-Consciousness-ebook/dp/B00G2DODRK)
+4. Berman: *George Berkeley: Idealism and the Man*
+5. Garrett: [Hume](https://www.amazon.com/Hume-Routledge-Philosophers-Don-Garrett-ebook/dp/B00PK5JPSS)
+6. Dicker: [Hume's Epistemology and Metaphysics](https://www.amazon.com/Humes-Epistemology-Metaphysics-Georges-Dicker-ebook/dp/B000FA5XUW)
+7. Baier: [A Progress of Sentiments](https://www.amazon.com/Progress-Sentiments-Annette-C-BAIER-ebook/dp/B003Z0BKL0)
+8. Baier: *Death & Character*
+9. Howson: [Hume's Problem](https://www.amazon.com/Humes-Problem-Induction-Justification-Belief-ebook/dp/B001KYFN1G)
 
-# Optional: Early Modern
+## Optional: Early Modern
 1. Malebranche: *The Search After Truth*
 2. Malebranche: *Treatise on Nature and Grace*
 3. Malebranche: *Treatise on Ethics*
