@@ -32,7 +32,9 @@ is about is an important first step to understanding. This isn't a work of
 fiction where you can get spoilers, take on all the support you need even if
 that amounts to purchasing secondary sources to supplement your readings.
 
-# Early Greeks
+# Classic Philosophy
+
+## Core
 1. [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
 2. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
    1. Man: Alcibiades, Lysis, Laches, Charmides
@@ -58,87 +60,141 @@ that amounts to purchasing secondary sources to supplement your readings.
    7. Metaphysics
    8. Rhetoric
 
-## Optional mythology, poems, histories, and plays
+## Mythology, Poems, Histories, and Plays
 1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
-2. Homer: [Iliad](https://www.amazon.com/Iliad-Penguin-Classics-Homer-ebook/dp/B003P9XCYO)
-3. Homer: [Odyssey](https://www.amazon.com/Odyssey-Penguin-Classics-Deluxe-ebook/dp/B000OCXGRS)
+2. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
+3. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
 4. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
-5. Aristophanes: [Clouds](https://www.amazon.com/Clouds-Aristophanes-ebook/dp/B00GNHN1JQ)
+5. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
+6. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
 
-## Optional Presocratics
+## Presocratics
 1. Anaxagoras: *Fragments*
 2. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
 3. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
 4. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
 5. Democritus: *Fragments*
-6. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
-6. Brann: [The Logos of Heraclitus](https://www.amazon.com/Logos-Heraclitus-Eva-Brann-ebook/dp/B007I6WIJA)
-7. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
-8. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
-9. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
 
-## Optional Socratics
+## Secondary: Presocratics
+1. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
+2. Brann: [The Logos of Heraclitus](https://www.amazon.com/Logos-Heraclitus-Eva-Brann-ebook/dp/B007I6WIJA)
+3. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
+4. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
+5. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
+
+## Secondary: Socratics
 1. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
-2. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Persians-Other-Plays-Prometheus-Suppliants-ebook/dp/B004LLIHHW)
+2. Aristophanes: [Clouds](https://www.amazon.com/Clouds-Aristophanes-ebook/dp/B00GNHN1JQ)
 
-## Optional Platonics
-1. Broadie: [Nature and Divinity in Plato's Timaeus](https://www.amazon.com/Nature-Divinity-Platos-Timaeus-Broadie-ebook/dp/B006H3TVOK)
+## Secondary: Platonics
+1. Meinwald: [Plato](https://www.amazon.com/Plato-Routledge-Philosophers-Constance-Meinwald-ebook/dp/B01F8X9FDQ)
 2. Kahn: [Plato and the Socratic Dialogue](https://www.amazon.com/Plato-Socratic-Dialogue-Philosophical-Literary-ebook/dp/B002EL4LS0)
 3. Johansen: [Plato's Natural Philosophy](https://www.amazon.com/Platos-Natural-Philosophy-Study-Timaeus-Critias-ebook/dp/B00ARF2HA4)
-4. Strauss: [The Argument and the Action of Plato's Laws](https://www.amazon.com/Argument-Action-Platos-Laws-ebook/dp/B00R4FQFAI)
-5. Meinwald: [Plato](https://www.amazon.com/Plato-Routledge-Philosophers-Constance-Meinwald-ebook/dp/B01F8X9FDQ)
-6. Fine: [Plato on Knowledge and Forms](https://www.amazon.com/Plato-Knowledge-Forms-Selected-Essays-ebook/dp/B002EZYXVQ)
+4. Fine: [Plato on Knowledge and Forms](https://www.amazon.com/Plato-Knowledge-Forms-Selected-Essays-ebook/dp/B002EZYXVQ)
+5. Broadie: [Nature and Divinity in Plato's Timaeus](https://www.amazon.com/Nature-Divinity-Platos-Timaeus-Broadie-ebook/dp/B006H3TVOK)
+6. Strauss: [The Argument and the Action of Plato's Laws](https://www.amazon.com/Argument-Action-Platos-Laws-ebook/dp/B00R4FQFAI)
 
-## Optional Aristotelian
-1. Shield: [Aristotle](https://www.amazon.com/Aristotle-Routledge-Philosophers-Christopher-Shields-ebook/dp/B00HSMEXKQ)
+## Secondary: Aristotelian
+1. Shields: [Aristotle](https://www.amazon.com/Aristotle-Routledge-Philosophers-Christopher-Shields-ebook/dp/B00HSMEXKQ)
 2. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
 3. Nussbaum, Rorty: [Essay's on Aristotle's De Anima](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
 4. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
 
-## Optional Epicureanism
+## Secondary: Cynicism
+1. Branham: *The Cynics*
+2. Sayre: *Diogenes of Sinope*
+3. Hard: [Sayings and Anecdotes](https://www.amazon.com/Sayings-Anecdotes-Popular-Moralists-Classics-ebook/dp/B008ESC9S6)
+4. Dobbin: [The Cynic Philosophers](https://www.amazon.com/Cynic-Philosophers-Diogenes-Penguin-Classics-ebook/dp/B009NXUQG8)
+
+## Epicureanism
+1. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
+
+## Secondary: Epicureanism
 1. Warren: [The Cambridge Companion to Epicureanism](https://www.amazon.com/Cambridge-Companion-Epicureanism-Companions-Philosophy-ebook/dp/B009T0IWWA)
-2. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
-3. Lucretius: [On the Nature of Things](https://www.amazon.com/Nature-Things-Lucretius-ebook/dp/B008KNO816)
+2. Lucretius: [On the Nature of Things](https://www.amazon.com/Nature-Things-Lucretius-ebook/dp/B008KNO816)
 
-## Optional Early Greeks
-1. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
-
-# Further Greeks and Romans
+## Stoicism
 1. Seneca: [Dialogues and Essays](https://www.amazon.com/Dialogues-Essays-Oxford-Worlds-Classics-ebook/dp/B005JJ9RN8)
 2. Epictetus: [Handbook](https://www.amazon.com/Handbook-Encheiridion-Hackett-Classics-ebook/dp/B004EYT56I)
 3. Aurelius: [Meditations](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4)
-4. Cicero: [On the Commonwealth and On the Laws](https://www.amazon.com/Cicero-Commonwealth-Cambridge-History-Political-ebook/dp/B07316NQ7B)
-5. Cicero: [On Moral Ends](https://www.amazon.com/Cicero-Moral-Cambridge-History-Philosophy-ebook/dp/B00DO1HFKK)
-6. Cicero: [Selected Letters](https://www.amazon.com/Selected-Letters-Oxford-Worlds-Classics-ebook/dp/B006NTL17I)
-7. Plutarch: *Moralia*
-8. Plotinus: [The Enneads](https://www.amazon.com/Plotinus-Enneads-LP-Classic-Reprint-ebook/dp/B00EVU80KW)
-9. Proclus: *The Elements of Theology*
 
-## Optional Further Greeks and Romancs
-1. Deck: [Nature, Contemplation, and the One](https://www.amazon.com/Nature-Contemplation-One-Philosophy-Plotinus-ebook/dp/B01N6QXLV3)
-2. Yount: [Plotinus the Platonist](https://www.amazon.com/Plotinus-Platonist-Comparative-Metaphysics-Bloomsbury-ebook/dp/B00O8MOLAG)
-3. Kalligas: [The Enneads of Plotinus, Volume 1: A Commentary](https://www.amazon.com/Enneads-Plotinus-Commentary-Paul-Kalligas-ebook/dp/B00KZY6B0Y)
-4. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
-5. Gregory: [The Neoplatonists](https://www.amazon.com/Neoplatonists-John-Gregory-ebook/dp/B00K1ZV6PC)
+## Secondary: Skepticism
+1. Maccoll: *The Greek Sceptics: From Pyrrho to Sextus*
+2. Empiricus: *The Outlines of Pyrrhonism*
 
-# Middle Ages
-1. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
-2. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
-3. Boethius: [The Consolation of Philosophy](https://www.amazon.com/Consolation-Philosophy-Oxford-Worlds-Classics-ebook/dp/B00A7LN946)
-4. Anselm: [Major Works](https://www.amazon.com/Anselm-Canterbury-Oxford-Worlds-Classics-ebook/dp/B006L2XMBK)
-5. Aquinas: [Selected Writings](https://www.amazon.com/Selected-Writings-Penguin-Classics-Aquinas-ebook/dp/B002RI9JR8)
-6. Ockham: *Letters to the Friars Minor and Other Writings*
-7. Ockham: *Theory of Terms*
-8. Buridan: *Summulae de dialectica*
+## Eclecticism
+1. Cicero: [On the Commonwealth and On the Laws](https://www.amazon.com/Cicero-Commonwealth-Cambridge-History-Political-ebook/dp/B07316NQ7B)
+2. Cicero: [On Moral Ends](https://www.amazon.com/Cicero-Moral-Cambridge-History-Philosophy-ebook/dp/B00DO1HFKK)
+3. Cicero: [Selected Letters](https://www.amazon.com/Selected-Letters-Oxford-Worlds-Classics-ebook/dp/B006NTL17I)
 
-## Optional Middle Ages
-1. Feser: [Aquinas](https://www.amazon.com/Aquinas-Beginners-Guide-Guides-ebook/dp/B00O0G3BEW)
+## Neoplatonism
+1. Plutarch: *Moralia*
+2. Plotinus: [The Enneads](https://www.amazon.com/Plotinus-Enneads-LP-Classic-Reprint-ebook/dp/B00EVU80KW)
+3. Proclus: *The Elements of Theology*
+
+### Secondary: Neoplatonism
+1. Rappe: *Reading Neoplatonism*
+2. Wallis: *Neoplatonism*
+3. Remes: *Neoplatonism*
+4. Kalligis: [The Enneads of Plotinus, Volume 1](https://www.amazon.com/Enneads-Plotinus-Commentary-Paul-Kalligas-ebook/dp/B00KZY6B0Y)
+5. Deck: [Nature, Contemplation, and the One](https://www.amazon.com/Nature-Contemplation-One-Philosophy-Plotinus-ebook/dp/B01N6QXLV3)
+6. Yount: [Plotinus the Platonist](https://www.amazon.com/Plotinus-Platonist-Comparative-Metaphysics-Bloomsbury-ebook/dp/B00O8MOLAG)
+7. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
+8. Gregory: [The Neoplatonists](https://www.amazon.com/Neoplatonists-John-Gregory-ebook/dp/B00K1ZV6PC)
+
+# Christian and Medieval
+
+## Gnostic Christianity
+1. Pearson: [Ancient Gnosticism](https://www.amazon.com/Ancient-Gnosticism-Traditions-Birger-Pearson-ebook/dp/B001D25X42)
+2. *The Nag Hammadi Library*
+3. Pearson: *Gnosticism and Christianity in Roman and Coptic Egypt*
+
+## Early Medieval
+1. Augustine: [On Christian Doctrine](https://www.amazon.com/Christian-Doctrine-Dover-Philosophical-Classics-ebook/dp/B00A73AK5K)
+2. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
+3. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
+4. Boethius: [The Consolation of Philosophy](https://www.amazon.com/Consolation-Philosophy-Oxford-Worlds-Classics-ebook/dp/B00A7LN946)
+
+## Secondary: Early Medieval
+1. Brown: *Augustine of Hippo: A Biography*
+
+## Pre-Aristotelian Revival
+1. Anselm: [Major Works](https://www.amazon.com/Anselm-Canterbury-Oxford-Worlds-Classics-ebook/dp/B006L2XMBK)
+2. Abelard: [Ethical Writings](https://www.amazon.com/Abelard-Ethical-Writings-Hackett-Classics-ebook/dp/B00GIXOS3I)
+3. Abelard & Heloise: [The Letters and Other Writings](https://www.amazon.com/Letters-Other-Writings-Hackett-Classics-ebook/dp/B00D5VKFRE)
+
+## Secondary Pre-Aristotelian Revival
+1. Southern: *Saint Anselm: A Portrait in a Landscape*
+
+## Aristotelian Revival
+1. Aquinas: *Summa Theologica*
+2. Aquinas: [Selected Writings](https://www.amazon.com/Selected-Writings-Penguin-Classics-Aquinas-ebook/dp/B002RI9JR8)
+3. Scotus: *The Ordinatio*
+4. Scotus: *Tractatus de Primo Principio (Treatise on the First Principle)*
+5. Scotus: [Selected Writings on Ethics](https://www.amazon.com/John-Duns-Scotus-Selected-Writings-ebook/dp/B06XHMCSGK)
+
+## Secondary: Aristotelian Revival
+1. Rubenstein: [Aristotle's Children](https://www.amazon.com/Aristotles-Children-Christians-Rediscovered-Illuminated-ebook/dp/B003KK5DPO)
+2. Gilson: [The Christian Philosophy of St. Thomas Aquinas](https://www.amazon.com/Christian-Philosophy-St-Thomas-Aquinas-ebook/dp/B00C8S9XBO)
+3. McInerny: [St. Thomas Aquinas](https://www.amazon.com/St-Thomas-Aquinas-Ralph-McInerny-ebook/dp/B01MEER7N3)
+4. Pieper: [Guide to Thomas Aquinas](https://www.amazon.com/Guide-Thomas-Aquinas-Josef-Pieper-ebook/dp/B00564CXT6)
+5. Feser: [Aquinas](https://www.amazon.com/Aquinas-Beginners-Guide-Guides-ebook/dp/B00O0G3BEW)
+
+## Early Empiricism
+1. Ockham: *Philosophical Writings*
+2. Buridan: *Summulae de dialectica*
+
+## Optional: Western Christian Mysticism
+1. Eriugena: *Periphyseon on the Division of Nature*
 2. Dionysius: *Complete Works*
-3. Perl: [Theophany](https://www.amazon.com/Theophany-Neoplatonic-Philosophy-Dionysius-Areopagite-ebook/dp/B003HC8GHW)
-4. Carabine: *The Unknown God*
-5. Eckhart: [Selected Writings](https://www.amazon.com/Selected-Writings-Penguin-Classics-Meister-ebook/dp/B002RI9FL8)
-6. McGinn: [The Mystical Thought of Meister Eckhart](https://www.amazon.com/Mystical-Thought-Meister-Eckhart-Nothing-ebook/dp/B07BLNXWKQ)
-7. Schurmann: [Wandering Joy](https://www.amazon.com/Wandering-Joy-Reiner-Schurmann-ebook/dp/B008062DYM)
+3. Eckhart: [Selected Writings](https://www.amazon.com/Selected-Writings-Penguin-Classics-Meister-ebook/dp/B002RI9FL8)
+
+## Secondary: Western Christian Mysticism
+1. Moran: *The Philosophy of John Scottus Eriugena*
+2. Perl: [Theophany](https://www.amazon.com/Theophany-Neoplatonic-Philosophy-Dionysius-Areopagite-ebook/dp/B003HC8GHW)
+3. Carabine: *The Unknown God*
+4. McGinn: [The Mystical Thought of Meister Eckhart](https://www.amazon.com/Mystical-Thought-Meister-Eckhart-Nothing-ebook/dp/B07BLNXWKQ)
+5. Schurmann: [Wandering Joy](https://www.amazon.com/Wandering-Joy-Reiner-Schurmann-ebook/dp/B008062DYM)
 
 # Early Modern Rationalists
 1. Descarte: [Philosophical Writings I](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
@@ -147,7 +203,7 @@ that amounts to purchasing secondary sources to supplement your readings.
 4. Spinoza: [Complete Works](https://www.amazon.com/Spinoza-Complete-Works-Baruch-ebook/dp/B00R5DEJWA)
 5. Leibniz: [Philosophical Essays](https://www.amazon.com/Leibniz-Philosophical-Essays-Hackett-Classics-ebook/dp/B00D5VKFR4)
 
-## Optional Early Modern Rationalists
+## Secondary: Early Modern Rationalists
 1. Sorell: [Descartes: A Very Short Introduction](https://www.amazon.com/Descartes-Very-Short-Introduction-Introductions-ebook/dp/B005LNKJ8O)
 2. Wilson: [Descartes' Meditations: An Introduction](https://www.amazon.com/Descartess-Meditations-Introduction-Introductions-Philosophical-ebook/dp/B003Y8XLTW)
 3. Cottingham: [Cartesian Reflections](https://www.amazon.com/Cartesian-Reflections-Essays-Descartess-Philosophy-ebook/dp/B001NXCXTO)
@@ -159,6 +215,7 @@ that amounts to purchasing secondary sources to supplement your readings.
 9. Jolley: [Leibniz](https://www.amazon.com/Leibniz-Routledge-Philosophers-Nicholas-Jolley-ebook/dp/B000OT7UPU)
 10. Savile: [Routledge Philosophy GuideBook to Leibniz and the Monadology](https://www.amazon.com/Routledge-Philosophy-GuideBook-Monadology-GuideBooks-ebook/dp/B000FA617G)
 11. Garber: [Body, Substance, Monad](https://www.amazon.com/Leibniz-Substance-Monad-Daniel-Garber-ebook/dp/B005LQCT48)
+12. Voltaire: [Candide](https://www.amazon.com.au/Candide-AmazonClassics-Voltaire-ebook/dp/B073QR7YB9)
 
 # Early Modern Empiricists
 1. Locke: *Concerning Education*
@@ -174,12 +231,16 @@ that amounts to purchasing secondary sources to supplement your readings.
 11. Hume: *Natural History of Religion*
 12. Hume: [Principles of Morals](https://www.amazon.com/Enquiry-Concerning-Principles-Hackett-Classics-ebook/dp/B00OZ4NIYC)
 
-## Optional Early Modern Empiricists
+## Secondary: Early Modern Empiricists
 1. Balibar: [Identity and Difference: John Locke and the Invention of Consciousness](https://www.amazon.com/Identity-Difference-Locke-Invention-Consciousness-ebook/dp/B00G2DODRK)
+2. Berman: *George Berkeley: Idealism and the Man*
 2. Garrett: [Hume](https://www.amazon.com/Hume-Routledge-Philosophers-Don-Garrett-ebook/dp/B00PK5JPSS)
 3. Dicker: [Hume's Epistemology and Metaphysics](https://www.amazon.com/Humes-Epistemology-Metaphysics-Georges-Dicker-ebook/dp/B000FA5XUW)
+4. Baier: [A Progress of Sentiments](https://www.amazon.com/Progress-Sentiments-Annette-C-BAIER-ebook/dp/B003Z0BKL0)
+5. Baier: *Death & Character*
+6. Howson: [Hume's Problem](https://www.amazon.com/Humes-Problem-Induction-Justification-Belief-ebook/dp/B001KYFN1G)
 
-# Optional Early Modern
+# Optional: Early Modern
 1. Malebranche: *The Search After Truth*
 2. Malebranche: *Treatise on Nature and Grace*
 3. Malebranche: *Treatise on Ethics*
