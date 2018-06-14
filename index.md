@@ -4,8 +4,9 @@ title: Index
 
 # Introduction
 The following is a list of what could constitute a proper reading of Western
-philosophy which currently covers the Greeks up to and including the early
-modern era. It should be noted that you should pick and choose your trajectory
+philosophy which currently covers Classic Philosophy up to and including Early
+Modern Philosophy; though Classic Philosophy is the most fleshed out as of
+writing. It should be noted that you should pick and choose your trajectory
 when approaching this list. However, it could be beneficial to approach some
 things in order as philosophers usually make reference and build upon previous
 thought. However, if you do read Kenney's history you should be able to
@@ -36,6 +37,11 @@ is about is an important first step to understanding. This isn't a work of
 fiction where you can get spoilers, take on all the support you need even if
 that amounts to purchasing secondary sources to supplement your readings and
 perhaps even reading them first.
+
+It should be noted, and is probably obvious, that you can approach Kenny's
+History piecemeal. That is, one can read Part I and then enjoy reading the
+primary and secondary works of Classic Philosophy, then move onto Part II, read
+the corresponding primary and secondary sources, and so on.
 
 # Classic Philosophy
 
@@ -79,7 +85,7 @@ perhaps even reading them first.
 
 ## Early Greeks
 1. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
-   1. Alcibiades, Lysis, Laches, Charmides
+   1. Alcibiades I, Lysis, Laches, Charmides
    2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
    3. Meno, Euthyphro, Apology, Crito
    4. Symposium, Phaedrus, Republic, Phaedo
@@ -142,8 +148,16 @@ perhaps even reading them first.
 
 ## Neoplatonism
 1. Plutarch: *Moralia*
-2. Plotinus: [The Enneads](https://www.amazon.com/Plotinus-Enneads-LP-Classic-Reprint-ebook/dp/B00EVU80KW)
-3. Proclus: *The Elements of Theology*
+2. Plutarch: [Essays](https://www.amazon.com/Essays-Penguin-Classics-Plutarch-ebook/dp/B00433T3SA)
+3. Plotinus: [The Enneads](https://www.amazon.com/Plotinus-Enneads-LP-Classic-Reprint-ebook/dp/B00EVU80KW)
+4. Proclus: *The Elements of Theology*
+5. Proclus: [Alcibiades I: A Translation and Commentary](https://www.amazon.com/Proclus-Alcibiades-I-Translation-Commentary-ebook/dp/B00HWVVOUU)
+6. Proclus: [Commentary on Plato's Republic: Volume 1](https://www.amazon.com/Proclus-Commentary-Platos-Republic-1-ebook/dp/B07BNT3KBZ)
+7. Proclus: *Commentary on Plato's Timaeus: Volume 1, Book 1*
+8. Proclus: *Commentary on Plato's Timaeus: Volume 2, Book 2*
+9. Proclus: [Commentary on Plato's Timaeus: Volume 4, Book 3, Part 2](https://www.amazon.com/Proclus-Commentary-Platos-Timaeus-World-ebook/dp/B004123CW6)
+10. Proclus: [Commentary on Plato's Timaeus: Volume 5](https://www.amazon.com/Proclus-Commentary-Platos-Timaeus-ebook/dp/B00CMNTLC6)
+11. Proclus: *Commentary on Plato's Timaeus: Volume 6, Book 5*
 
 ## Secondary: Neoplatonism
 1. Rappe: *Reading Neoplatonism*
@@ -153,7 +167,9 @@ perhaps even reading them first.
 5. Kalligis: [The Enneads of Plotinus, Volume 1](https://www.amazon.com/Enneads-Plotinus-Commentary-Paul-Kalligas-ebook/dp/B00KZY6B0Y)
 6. Deck: [Nature, Contemplation, and the One](https://www.amazon.com/Nature-Contemplation-One-Philosophy-Plotinus-ebook/dp/B01N6QXLV3)
 7. Yount: [Plotinus the Platonist](https://www.amazon.com/Plotinus-Platonist-Comparative-Metaphysics-Bloomsbury-ebook/dp/B00O8MOLAG)
-8. Chlup: [Proclus](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
+8. Chlup: [Proclus: An Introduction](https://www.amazon.com/Proclus-Radek-Chlup-ebook/dp/B0085X0OA0)
+9. Gersh: [Interpreting Proclus](https://www.amazon.com/Interpreting-Proclus-Renaissance-Stephen-Gersh-ebook/dp/B00M75O52U)
+10. d'Hoine, Martijn: [All From One: A Guide to Proclus](https://www.amazon.com/All-One-Proclus-Pieter-dHoine-ebook/dp/B01NAE0T1C)
 
 # Christian and Medieval Philosophy
 
