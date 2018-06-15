@@ -45,21 +45,46 @@ the corresponding primary and secondary sources, and so on.
 
 # Classic Philosophy
 
-## Mythology, Poems, Histories, and Plays
+## Core Classic Philosophy
 1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
-2. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
-3. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
-4. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
-5. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
-6. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
+2. Waterfield: [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
+3. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
+   1. Alcibiades I, Lysis, Laches, Charmides
+   2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
+   3. Meno, Euthyphro, Apology, Crito
+   4. Symposium, Phaedrus, Republic, Phaedo
+   5. Cratylus, Ion, Euthydemus, Menexenus
+   6. Parmenides, Theaetetus, Sophist, Statesman
+   7. Philebus, Timaeus, Critias, Laws
+4. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
+   1. Nicomachean Ethics
+   2. Politics
+   3. Poetics
+   4. Organon
+      1. Categories
+      2. De Interpretatione
+      3. Prior Analytics
+      4. Posterior Analytics
+      5. Topics
+      6. Sophistical Refutations
+   5. Physics
+   6. On the Soul
+   7. Metaphysics
+   8. Rhetoric
+
+## Poems, Histories, and Plays
+1. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
+2. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
+3. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
+4. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
+5. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
 
 ## Presocratics
-1. [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
-2. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
-3. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
-4. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
-5. Anaxagoras: *Fragments*
-6. Democritus: *Fragments*
+1. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
+2. Heraclitus: [Fragments](https://www.amazon.com/Heraclitus-Fragments-Presocractic-T-M-Robinson-ebook/dp/B00T9ZI3XI)
+3. Parmenides: [Fragments](https://www.amazon.com/Parmenides-Elea-translation-introduction-Presocractic-ebook/dp/B00T9ZI43C)
+4. Anaxagoras: *Fragments*
+5. Democritus: *Fragments*
 
 ## Secondary: Presocratics
 1. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
@@ -76,31 +101,6 @@ the corresponding primary and secondary sources, and so on.
 1. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
 2. Plato, Aristophanes, Xenophon: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
 3. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
-
-## Early Greeks
-1. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
-   1. Alcibiades I, Lysis, Laches, Charmides
-   2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
-   3. Meno, Euthyphro, Apology, Crito
-   4. Symposium, Phaedrus, Republic, Phaedo
-   5. Cratylus, Ion, Euthydemus, Menexenus
-   6. Parmenides, Theaetetus, Sophist, Statesman
-   7. Philebus, Timaeus, Critias, Laws
-2. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
-   1. Nicomachean Ethics
-   2. Politics
-   3. Poetics
-   4. Organon
-      1. Categories
-      2. De Interpretatione
-      3. Prior Analytics
-      4. Posterior Analytics
-      5. Topics
-      6. Sophistical Refutations
-   5. Physics
-   6. On the Soul
-   7. Metaphysics
-   8. Rhetoric
 
 ## Secondary: Platonics
 1. Meinwald: [Plato](https://www.amazon.com/Plato-Routledge-Philosophers-Constance-Meinwald-ebook/dp/B01F8X9FDQ)
@@ -172,16 +172,25 @@ the corresponding primary and secondary sources, and so on.
 
 # Christian and Medieval Philosophy
 
+## Core Christian and Medieval Philosophy
+1. Augustine: [On Christian Doctrine](https://www.amazon.com/Christian-Doctrine-Dover-Philosophical-Classics-ebook/dp/B00A73AK5K)
+2. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
+3. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
+4. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
+5. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
+6. Aquinas: [The Treatise on Human Nature](https://www.amazon.com/Treatise-Human-Nature-Theologiae-Hackett-ebook/dp/B00LVCVBNG)
+7. Aquinas: [Commentary on Aristotle's Politics](https://www.amazon.com/Commentary-Aristotles-Politics-One-Loves-ebook/dp/B005INZMCU)
+8. Aquinas: [Treatise on Law](https://www.amazon.com/Treatise-Hackett-Classics-Thomas-Aquinas-ebook/dp/B00OZ4NLXA)
+9. Aquinas: [The Treatise on Happiness • The Treatise on Human Acts](https://www.amazon.com/Treatise-Happiness-Human-Hackett-Aquinas-ebook/dp/B01N4NMI2F)
+
 ## Gnostic Christianity
 1. Pearson: [Ancient Gnosticism](https://www.amazon.com/Ancient-Gnosticism-Traditions-Birger-Pearson-ebook/dp/B001D25X42)
 2. *The Nag Hammadi Library*
 3. Pearson: *Gnosticism and Christianity in Roman and Coptic Egypt*
 
 ## Early Medieval
-1. Augustine: [On Christian Doctrine](https://www.amazon.com/Christian-Doctrine-Dover-Philosophical-Classics-ebook/dp/B00A73AK5K)
-2. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
-3. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
-4. Boethius: [The Consolation of Philosophy](https://www.amazon.com/Consolation-Philosophy-Oxford-Worlds-Classics-ebook/dp/B00A7LN946)
+1. Augustine (see [Core Christian and Medieval Philosophy](#core-christian-and-medieval-philosophy))
+2. Boethius: [The Consolation of Philosophy](https://www.amazon.com/Consolation-Philosophy-Oxford-Worlds-Classics-ebook/dp/B00A7LN946)
 
 ## Secondary: Early Medieval
 1. Brown: *Augustine of Hippo: A Biography*
@@ -195,13 +204,7 @@ the corresponding primary and secondary sources, and so on.
 1. Southern: *Saint Anselm: A Portrait in a Landscape*
 
 ## Aristotelian Revival
-1. Aquinas: *Summa Theologica*
-2. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
-3. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
-4. Aquinas: [The Treatise on Human Nature](https://www.amazon.com/Treatise-Human-Nature-Theologiae-Hackett-ebook/dp/B00LVCVBNG)
-5. Aquinas: [Commentary on Aristotle's Politics](https://www.amazon.com/Commentary-Aristotles-Politics-One-Loves-ebook/dp/B005INZMCU)
-6. Aquinas: [Treatise on Law](https://www.amazon.com/Treatise-Hackett-Classics-Thomas-Aquinas-ebook/dp/B00OZ4NLXA)
-7. Aquinas: [The Treatise on Happiness • The Treatise on Human Acts](https://www.amazon.com/Treatise-Happiness-Human-Hackett-Aquinas-ebook/dp/B01N4NMI2F)
+1. Aquinas (see [Core Christian and Medieval Philosophy](#core-christian-and-medieval-philosophy))
 3. Scotus: *The Ordinatio*
 4. Scotus: *Tractatus de Primo Principio (Treatise on the First Principle)*
 5. Scotus: [Selected Writings on Ethics](https://www.amazon.com/John-Duns-Scotus-Selected-Writings-ebook/dp/B06XHMCSGK)
