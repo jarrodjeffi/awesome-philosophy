@@ -46,10 +46,10 @@ the corresponding primary and secondary sources, and so on.
 # Classic Philosophy
 
 ## Core Classic Philosophy
-1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Edith-Hamilton-ebook/dp/B00FOQRZFS)
-2. Waterfield: [The First Philosophers: The Presocratics and Sophists](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
+1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Timeless-Heroes-Anniversary-Illustrated-ebook/dp/B071S74DXY)
+2. Waterfield: [The First Philosophers](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
 3. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
-   1. Alcibiades I, Lysis, Laches, Charmides
+   1. Alcibiades, Lysis, Laches, Charmides
    2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
    3. Meno, Euthyphro, Apology, Crito
    4. Symposium, Phaedrus, Republic, Phaedo
@@ -114,7 +114,7 @@ the corresponding primary and secondary sources, and so on.
 1. Shields: [Aristotle](https://www.amazon.com/Aristotle-Routledge-Philosophers-Christopher-Shields-ebook/dp/B00HSMEXKQ)
 2. Nussbaum, Rorty: [Essay's on Aristotle's De Anima](https://www.amazon.com/Essays-Aristotles-Anima-Clarendon-Aristotle-ebook/dp/B004IYJIU2)
 3. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
-4. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
+4. Politis: [Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
 
 ## Secondary: Cynicism
 1. Branham: *The Cynics*
@@ -245,7 +245,7 @@ the corresponding primary and secondary sources, and so on.
 1. Stewart: *The Courtier and the Heretic*
 2. Hall: *Philosophers at War*
 3. Sorell: [Descartes: A Very Short Introduction](https://www.amazon.com/Descartes-Very-Short-Introduction-Introductions-ebook/dp/B005LNKJ8O)
-4. Wilson: [Descartes' Meditations: An Introduction](https://www.amazon.com/Descartess-Meditations-Introduction-Introductions-Philosophical-ebook/dp/B003Y8XLTW)
+4. Wilson: [Descartes' Meditations](https://www.amazon.com/Descartess-Meditations-Introduction-Introductions-Philosophical-ebook/dp/B003Y8XLTW)
 5. Cottingham: [Cartesian Reflections](https://www.amazon.com/Cartesian-Reflections-Essays-Descartess-Philosophy-ebook/dp/B001NXCXTO)
 6. Hatfield: [The Routledge Guidebook to Descartes' Meditations](https://www.amazon.com/Routledge-Guidebook-Descartes-Meditations-Guides-ebook/dp/B00LPK9FSC)
 7. Nadler: [Spinoza's 'Ethics': An Introduction](https://www.amazon.com/Spinozas-Ethics-Introduction-Introductions-Philosophical-ebook/dp/B000SHMFJO)
@@ -253,7 +253,7 @@ the corresponding primary and secondary sources, and so on.
 9. Melamed, Rosenthal: [Spinoza's 'Theological-Political' Treatise](https://www.amazon.com/Spinozas-Theological-Political-Treatise-Cambridge-Critical-ebook/dp/B004P1JF7Y)
 10. Strauss: [Spinoza's Critique of Religion](https://www.amazon.com/Spinozas-Critique-Religion-Leo-Strauss-ebook/dp/B01EYG40LK)
 11. Jolley: [Leibniz](https://www.amazon.com/Leibniz-Routledge-Philosophers-Nicholas-Jolley-ebook/dp/B000OT7UPU)
-12. Savile: [Routledge Philosophy GuideBook to Leibniz and the Monadology](https://www.amazon.com/Routledge-Philosophy-GuideBook-Monadology-GuideBooks-ebook/dp/B000FA617G)
+12. Savile: [Leibniz and the Monadology](https://www.amazon.com/Routledge-Philosophy-GuideBook-Monadology-GuideBooks-ebook/dp/B000FA617G)
 13. Garber: [Body, Substance, Monad](https://www.amazon.com/Leibniz-Substance-Monad-Daniel-Garber-ebook/dp/B005LQCT48)
 14. Voltaire: [Candide](https://www.amazon.com.au/Candide-AmazonClassics-Voltaire-ebook/dp/B073QR7YB9)
 
@@ -274,7 +274,7 @@ the corresponding primary and secondary sources, and so on.
 ## Secondary: Early Modern Empiricists
 1. Roth: *British Empiricism and American Pragmatism*
 2. Lowe: [Locke](https://www.amazon.com/Locke-Routledge-Philosophers-J-Lowe-ebook/dp/B000OT8AUE)
-3. Balibar: [Identity and Difference: John Locke and the Invention of Consciousness](https://www.amazon.com/Identity-Difference-Locke-Invention-Consciousness-ebook/dp/B00G2DODRK)
+3. Balibar: [Identity and Difference](https://www.amazon.com/Identity-Difference-Locke-Invention-Consciousness-ebook/dp/B00G2DODRK)
 4. Berman: *George Berkeley: Idealism and the Man*
 5. Garrett: [Hume](https://www.amazon.com/Hume-Routledge-Philosophers-Don-Garrett-ebook/dp/B00PK5JPSS)
 6. Dicker: [Hume's Epistemology and Metaphysics](https://www.amazon.com/Humes-Epistemology-Metaphysics-Georges-Dicker-ebook/dp/B000FA5XUW)
