@@ -72,15 +72,9 @@ the corresponding primary and secondary sources, and so on.
 8. Cleve: [The Philosophy of Anaxagoras](https://www.amazon.com/Philosophy-Anaxagoras-F-M-Cleve-ebook/dp/B00FCC2IFG)
 9. Tor: [Mortal and Divine in Early Greek Epistemology](https://www.amazon.com/Mortal-Divine-Early-Greek-Epistemology-ebook/dp/B075V8DFGZ)
 
-## Secondary: Cynicism
-1. Branham: *The Cynics*
-2. Sayre: *Diogenes of Sinope*
-3. Hard: [Sayings and Anecdotes](https://www.amazon.com/Sayings-Anecdotes-Popular-Moralists-Classics-ebook/dp/B008ESC9S6)
-4. Dobbin: [The Cynic Philosophers](https://www.amazon.com/Cynic-Philosophers-Diogenes-Penguin-Classics-ebook/dp/B009NXUQG8)
-
 ## Secondary: Socratics
 1. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
-2. Plato, Aristophanes, Xenophone: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
+2. Plato, Aristophanes, Xenophon: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
 3. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
 
 ## Early Greeks
@@ -122,6 +116,12 @@ the corresponding primary and secondary sources, and so on.
 3. Polansky: [Aristotle's De Anima: A Critical Commentary](https://www.amazon.com/Aristotles-Anima-Commentary-Ronald-Polansky-ebook/dp/B007IA8P3Y)
 4. Politis: [Routledge Philosophy GuideBook to Aristotle and the Metaphysics](https://www.amazon.com/Routledge-Philosophy-GuideBook-Metaphysics-GuideBooks-ebook/dp/B000OT7W1M)
 
+## Secondary: Cynicism
+1. Branham: *The Cynics*
+2. Sayre: *Diogenes of Sinope*
+3. Hard: [Sayings and Anecdotes](https://www.amazon.com/Sayings-Anecdotes-Popular-Moralists-Classics-ebook/dp/B008ESC9S6)
+4. Dobbin: [The Cynic Philosophers](https://www.amazon.com/Cynic-Philosophers-Diogenes-Penguin-Classics-ebook/dp/B009NXUQG8)
+
 ## Epicureanism
 1. Epicurus: [Selected Writings and Testimonia](https://www.amazon.com/Epicurus-Reader-Selected-Writings-Testimonia-ebook/dp/B00OZ4NNH4)
 
@@ -137,9 +137,8 @@ the corresponding primary and secondary sources, and so on.
 ## Secondary: Skepticism
 1. Empiricus: *Outlines of Pyrrhonism*
 2. Maccoll: *The Greek Sceptics: From Pyrrho to Sextus*
-3. Empiricus: *The Outlines of Pyrrhonism*
-4. Sinnott-Armstrong: [Pyrrhonian Skepticism](https://www.amazon.com/Pyrrhonian-Skepticism-Walter-Sinnott-Armstrong-ebook/dp/B000TRI9DE)
-5. Bett: [The Cambridge Companion to Ancient Scepticism](https://www.amazon.com/Cambridge-Companion-Scepticism-Companions-Philosophy-ebook/dp/B009UTF1TM)
+3. Sinnott-Armstrong: [Pyrrhonian Skepticism](https://www.amazon.com/Pyrrhonian-Skepticism-Walter-Sinnott-Armstrong-ebook/dp/B000TRI9DE)
+4. Bett: [The Cambridge Companion to Ancient Scepticism](https://www.amazon.com/Cambridge-Companion-Scepticism-Companions-Philosophy-ebook/dp/B009UTF1TM)
 
 ## Eclecticism
 1. Cicero: [On the Commonwealth and On the Laws](https://www.amazon.com/Cicero-Commonwealth-Cambridge-History-Political-ebook/dp/B07316NQ7B)
