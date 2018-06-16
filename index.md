@@ -75,9 +75,21 @@ the corresponding primary and secondary sources, and so on.
 ## Poems, Histories, and Plays
 1. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
 2. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
-3. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
-4. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
-5. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
+3. *Greek Epic Fragments*
+4. Sophocles: [Antigone; Oedipus the King; Electra](https://www.amazon.com/Worlds-Classics-Antigone-Oedipus-Electra-ebook/dp/B003UES5QY)
+5. Hesiod: [Works and Days and Theogony](https://www.amazon.com/Works-Days-Theogony-Hackett-Classics-ebook/dp/B00GIXOS42)
+6. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
+7. Thucydides: [The War of the Peloponnesians and the Athenians](https://www.amazon.com/Thucydides-Cambridge-History-Political-Thought-ebook/dp/B00B9DFAH0)
+8. Aeschylus: [The Persians and Other Plays](https://www.amazon.com/Complete-Aeschylus-Persians-Tragedy-Translations-ebook/dp/B00VQVKY2Q)
+9. Laertius: [Lives of the Eminent Philosophers](https://www.amazon.com/Lives-Eminent-Philosophers-Diogenes-Laertius-ebook/dp/B07BH3B3ZW)
+
+## Secondary: Poems, Histories, and Plays
+1. Fowler: [The Cambridge Companion to Homer](https://www.amazon.com/Cambridge-Companion-Homer-Companions-Literature-ebook/dp/B00FF76RYG)
+2. Shipp: [Studies in the Language of Homer](https://www.amazon.com/Studies-Language-Homer-Cambridge-Classical-ebook/dp/B01CEKK9S6)
+3. Strauss: *The Trojan War*
+4. Clay: [Hesiod's Cosmos](https://www.amazon.com/Hesiods-Cosmos-Jenny-Strauss-Clay-ebook/dp/B001CN9JTM)
+5. Skinner: [The Invention of Greek Ethnography](https://www.amazon.com/Invention-Greek-Ethnography-Herodotus-Overseas-ebook/dp/B009UU4O76)
+6. McDonald, Walton: [The Cambridge Companion to Greek and Roman Theatre](https://www.amazon.com/Cambridge-Companion-Theatre-Companions-Literature-ebook/dp/B00AA8JVF2)
 
 ## Presocratics
 1. Xenophanes: [Fragments](https://www.amazon.com/Xenophanes-Colophon-Fragments-Phoenix-Presocractic-ebook/dp/B00T9ZI78E)
