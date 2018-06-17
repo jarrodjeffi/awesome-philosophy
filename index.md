@@ -241,6 +241,36 @@ the corresponding primary and secondary sources, and so on.
 
 # Modern Philosophy
 
+## Core Modern Philosophy
+
+### Epistemology
+1. Descartes: [Discourse on Method and Meditations on First Philosophy](https://www.amazon.com/Discourse-Meditations-Philosophy-Hackett-Classics-ebook/dp/B00OZ4NQIU)
+2. Locke: [An Essay Concerning Human Understanding](https://www.amazon.com/Essay-Concerning-Understanding-Penguin-Classics-ebook/dp/B002RI9HAM)
+3. Leibniz: [New Essays Concerning Human Understanding](http://www.gutenberg.org/ebooks/40957)
+4. Berkeley: [Three Dialogues between Hylas and Philonous](https://www.amazon.com/Dialogues-Between-Philonous-Hackett-Classics-ebook/dp/B00OZ4NL3A)
+5. Hume: [An Enquiry Concerning Human Understanding](https://www.amazon.com/Enquiry-Concerning-Understanding-Annotated-Classics-ebook/dp/B004L628UY)
+
+### Ontology
+All of [epistemology](#epistemology) minus Locke, Leibniz, and Hume and plus:
+
+1. Leibniz: [Discourse on Metaphysics and Monadology](https://www.amazon.com/Discourse-Metaphysics-Essays-Hackett-Classics-ebook/dp/B005IL1QMW)
+2. Kant: [Prolegomena to Any Future Metaphysics](https://www.amazon.com/Prolegomena-Any-Future-Metaphysics-February-ebook/dp/B00OZ4NQE4)
+
+### Axiology
+
+#### Aesthetics
+1. Hume: *Of the Standard of Taste*
+2. Kant: [Critique of Judgement](https://www.amazon.com/Critique-Judgment-Hackett-Classics-Immanuel-ebook/dp/B005GGSJZ6)
+
+#### Ethics
+1. Hume: [Principles of Morals](https://www.amazon.com/Enquiry-Concerning-Principles-Hackett-Classics-ebook/dp/B00OZ4NIYC)
+2. Kant: [Grounding for the Metaphysics of Morals](https://www.amazon.com/Grounding-Metaphysics-Morals-Supposed-Philanthropic-ebook/dp/B00OZ4NS4M)
+
+#### Politics
+1. Machiavelli: [The Prince](https://www.amazon.com/Prince-Hackett-Classics-Niccolo-Machiavelli-ebook/dp/B003GEKKZC)
+2. Hobbes: [Leviathan](https://www.amazon.com/Leviathan-Oxford-Worlds-Classics-Thomas-ebook/dp/B0063D7MZO)
+3. Locke: [Two Treatise of Government](https://www.amazon.com/Locke-Treatises-Government-Cambridge-Political-ebook/dp/B00E3UR9Z2)
+
 ## Early Modern Rationalists
 1. Descarte: [Philosophical Writings I](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
 2. Descarte: [Philosophical Writings II](https://www.amazon.com/Philosophical-Writings-Descartes-2-ebook/dp/B00D2WQ6HE)
