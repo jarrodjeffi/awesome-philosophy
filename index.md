@@ -43,9 +43,9 @@ History piecemeal. That is, one can read Part I and then enjoy reading the
 primary and secondary works of Classic Philosophy, then move onto Part II, read
 the corresponding primary and secondary sources, and so on.
 
-# Classic Philosophy
+# Classical Philosophy
 
-## Core Classic Philosophy
+## Core Classical Philosophy
 1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Timeless-Heroes-Anniversary-Illustrated-ebook/dp/B071S74DXY)
 2. Waterfield: [The First Philosophers](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
 3. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
@@ -185,15 +185,10 @@ the corresponding primary and secondary sources, and so on.
 # Christian and Medieval Philosophy
 
 ## Core Christian and Medieval Philosophy
-1. Augustine: [On Christian Doctrine](https://www.amazon.com/Christian-Doctrine-Dover-Philosophical-Classics-ebook/dp/B00A73AK5K)
-2. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
-3. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
-4. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
-5. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
-6. Aquinas: [The Treatise on Human Nature](https://www.amazon.com/Treatise-Human-Nature-Theologiae-Hackett-ebook/dp/B00LVCVBNG)
-7. Aquinas: [Commentary on Aristotle's Politics](https://www.amazon.com/Commentary-Aristotles-Politics-One-Loves-ebook/dp/B005INZMCU)
-8. Aquinas: [Treatise on Law](https://www.amazon.com/Treatise-Hackett-Classics-Thomas-Aquinas-ebook/dp/B00OZ4NLXA)
-9. Aquinas: [The Treatise on Happiness • The Treatise on Human Acts](https://www.amazon.com/Treatise-Happiness-Human-Hackett-Aquinas-ebook/dp/B01N4NMI2F)
+1. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
+2. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
+3. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
+4. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
 
 ## Gnostic Christianity
 1. Pearson: [Ancient Gnosticism](https://www.amazon.com/Ancient-Gnosticism-Traditions-Birger-Pearson-ebook/dp/B001D25X42)
@@ -201,7 +196,7 @@ the corresponding primary and secondary sources, and so on.
 3. Pearson: *Gnosticism and Christianity in Roman and Coptic Egypt*
 
 ## Early Medieval
-1. Augustine (see [Core Christian and Medieval Philosophy](#core-christian-and-medieval-philosophy))
+1. Augustine: [On Christian Doctrine](https://www.amazon.com/Christian-Doctrine-Dover-Philosophical-Classics-ebook/dp/B00A73AK5K)
 2. Boethius: [The Consolation of Philosophy](https://www.amazon.com/Consolation-Philosophy-Oxford-Worlds-Classics-ebook/dp/B00A7LN946)
 
 ## Secondary: Early Medieval
@@ -216,7 +211,7 @@ the corresponding primary and secondary sources, and so on.
 1. Southern: *Saint Anselm: A Portrait in a Landscape*
 
 ## Aristotelian Revival
-1. Aquinas (see [Core Christian and Medieval Philosophy](#core-christian-and-medieval-philosophy))
+1. Aquinas: [Commentary on Aristotle's Politics](https://www.amazon.com/Commentary-Aristotles-Politics-One-Loves-ebook/dp/B005INZMCU)
 3. Scotus: *The Ordinatio*
 4. Scotus: *Tractatus de Primo Principio (Treatise on the First Principle)*
 5. Scotus: [Selected Writings on Ethics](https://www.amazon.com/John-Duns-Scotus-Selected-Writings-ebook/dp/B06XHMCSGK)
