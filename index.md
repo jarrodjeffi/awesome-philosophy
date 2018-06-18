@@ -338,3 +338,10 @@ All of [epistemology](#epistemology) minus Locke, Leibniz, and Hume and plus:
 5. Kant: [Political Writings](https://www.amazon.com/Kant-Political-Writings-Cambridge-History-ebook/dp/B00D2WPUW6)
 6. Kant: [Critique of Practical Reason](https://www.amazon.com/Kant-Critique-Practical-Cambridge-Philosophy-ebook/dp/B00Q8TWV1S)
 7. Kant: [Critique of the Power of Judgement](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
+
+## Secondary: Transcendental Idealism
+1. Deleuze: *Kant's Critical Philosophy*
+2. Caygill: *A Kant Dictionary*
+3. Schneewind: [The Invention of Autonomy](https://www.amazon.com/Invention-Autonomy-History-Modern-Philosophy-ebook/dp/B00E3URD5S)
+4. Guyer: [Kant](https://www.amazon.com/Kant-Routledge-Philosophers-Paul-Guyer-ebook/dp/B00ISVUDJG)
+5. Guyer: [Knowledge, Reason, and Taste](https://www.amazon.com/Knowledge-Reason-Taste-Kants-Response-ebook/dp/B001BONN94)
