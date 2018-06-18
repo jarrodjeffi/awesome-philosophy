@@ -260,11 +260,11 @@ All of [epistemology](#epistemology) minus Locke, Leibniz, and Hume and plus:
 
 #### Aesthetics
 1. Hume: *Of the Standard of Taste*
-2. Kant: [Critique of Judgement](https://www.amazon.com/Critique-Judgment-Hackett-Classics-Immanuel-ebook/dp/B005GGSJZ6)
+2. Kant: [Critique of the Power of Judgement](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
 
 #### Ethics
 1. Hume: [Principles of Morals](https://www.amazon.com/Enquiry-Concerning-Principles-Hackett-Classics-ebook/dp/B00OZ4NIYC)
-2. Kant: [Grounding for the Metaphysics of Morals](https://www.amazon.com/Grounding-Metaphysics-Morals-Supposed-Philanthropic-ebook/dp/B00OZ4NS4M)
+2. Kant: [Groundwork for the Metaphysics of Morals](https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy-ebook/dp/B0087GZHYI)
 
 #### Politics
 1. Machiavelli: [The Prince](https://www.amazon.com/Prince-Hackett-Classics-Niccolo-Machiavelli-ebook/dp/B003GEKKZC)
@@ -329,3 +329,12 @@ All of [epistemology](#epistemology) minus Locke, Leibniz, and Hume and plus:
 7. Bacon: [Essays](https://www.amazon.com/Essays-Classics-Francis-Bacon-ebook/dp/B002XHNMQW)
 8. Montaigne: [Essays](https://www.amazon.com/Complete-Essays-Michel-Montaigne-ebook/dp/B002RI92VQ)
 9. Bruno: [Cause, Principle and Unity: And Essays on Magic](https://www.amazon.com/Giordano-Bruno-Principle-Cambridge-Philosophy-ebook/dp/B001G6128G)
+
+## Transcendental Idealism
+1. Kant: [Lectures on Logic](https://www.amazon.com/Lectures-Logic-Cambridge-Works-Immanuel-ebook/dp/B01N9YTTKL) or [Logic](https://www.amazon.com/Logic-Immanuel-Kant-ebook/dp/B00A3KJ3BE)
+2. Kant: [Prolegomena to Any Future Metaphysics](https://www.amazon.com/Prolegomena-Any-Future-Metaphysics-February-ebook/dp/B00OZ4NQE4)
+3. Kant: [Critique of Pure Reason](https://www.amazon.com/Critique-Reason-Cambridge-Works-Immanuel-ebook/dp/B00D2WQ4TO)
+4. Kant: [Groundwork for the Metaphysics of Morals](https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy-ebook/dp/B0087GZHYI)
+5. Kant: [Political Writings](https://www.amazon.com/Kant-Political-Writings-Cambridge-History-ebook/dp/B00D2WPUW6)
+6. Kant: [Critique of Practical Reason](https://www.amazon.com/Kant-Critique-Practical-Cambridge-Philosophy-ebook/dp/B00Q8TWV1S)
+7. Kant: [Critique of the Power of Judgement](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
