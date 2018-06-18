@@ -4,21 +4,20 @@ title: Index
 
 # Introduction
 The following is a list of what could constitute a proper reading of Western
-philosophy which currently covers Classic Philosophy up to and including Early
-Modern Philosophy; though Classic Philosophy is the most fleshed out as of
-writing. It should be noted that you should pick and choose your trajectory
-when approaching this list. However, it could be beneficial to approach some
-things in order as philosophers usually make reference and build upon previous
-thought. However, if you do read Kenney's history you should be able to
-approach the list from any angle.
+philosophy which covers Classical Philosophy up to Kant; which leads nicely
+into current analytic thought. It should be noted that you should pick and
+choose your trajectory when approaching this list. However, it could be
+beneficial to approach some things in order as philosophers usually make
+reference and build upon previous thought. However, if you do read Kenney's
+history you should be able to approach the list from any angle.
 
 On that note, for those without much time, there exists a *core* in this list
 that will be useful if you just want to read mostly primary works and shorter
 works at that. There's no golden road for philosophy but the core should at
 least get you talking at social gatherings with some knowledge to back you up.
-If you do find some philosophy interesting though I would recommend you study
-them thoroughly by reading not only their primary works but those secondaries
-as well.
+If you do find some philosophy, or philosopher, interesting I would recommend
+you study them thoroughly by reading not only their primary works but those
+secondaries as well.
 
 # Sources
 This list and the reading order were compiled with significant reference to:
