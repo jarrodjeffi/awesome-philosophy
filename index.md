@@ -91,8 +91,7 @@ For Homer's poems and Sophocles' plays there's no definitive versions.
 2. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
 3. Wedin: [Parmenides' Grand Deduction](https://www.amazon.com/Parmenides-Grand-Deduction-Logical-Reconstruction-ebook/dp/B00PFXHRU8)
 4. Marmodoro: [Everything in Everything: Anaxagoras' Metaphysics](https://www.amazon.com/Everything-Anaxagorass-Metaphysics-Anna-Marmodoro-ebook/dp/B06WWM3JKP)
-5. Cleve: [The Philosophy of Anaxagoras](https://www.amazon.com/Philosophy-Anaxagoras-F-M-Cleve-ebook/dp/B00FCC2IFG)
-6. Tor: [Mortal and Divine in Early Greek Epistemology](https://www.amazon.com/Mortal-Divine-Early-Greek-Epistemology-ebook/dp/B075V8DFGZ)
+5. Tor: [Mortal and Divine in Early Greek Epistemology](https://www.amazon.com/Mortal-Divine-Early-Greek-Epistemology-ebook/dp/B075V8DFGZ)
 
 ## Secondary: Socratics
 1. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
