@@ -4,12 +4,13 @@ title: Index
 
 # Introduction
 The following is a list of what could constitute a proper reading of Western
-philosophy which covers Classical Philosophy up to Kant; which leads nicely
-into current analytic thought. It should be noted that you should pick and
-choose your trajectory when approaching this list. However, it could be
-beneficial to approach some things in order as philosophers usually make
-reference and build upon previous thought. However, if you do read Kenney's
-history you should be able to approach the list from any angle.
+philosophy which covers Classical Philosophy, Medieval Philosophy, and Modern
+Philosophy up to Kant; this leads nicely into current analytic thought. It
+should be noted that you should pick and choose your trajectory when
+approaching this list. However, it could be beneficial to approach some things
+in order as philosophers usually make reference and build upon previous
+thought. However, if you do read Kenney's history you should be able to
+approach the list from any angle.
 
 On that note, for those without much time, there exists a *core* in this list
 that will be useful if you just want to read mostly primary works and shorter
@@ -55,35 +56,15 @@ the corresponding primary and secondary sources, and so on.
 ## Core Classical Philosophy
 1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Timeless-Heroes-Anniversary-Illustrated-ebook/dp/B071S74DXY)
 2. Waterfield: [The First Philosophers](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
-3. Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
-   1. Alcibiades, Lysis, Laches, Charmides
-   2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
-   3. Meno, Euthyphro, Apology, Crito
-   4. Symposium, Phaedrus, Republic, Phaedo
-   5. Cratylus, Ion, Euthydemus, Menexenus
-   6. Parmenides, Theaetetus, Sophist, Statesman
-   7. Philebus, Timaeus, Critias, Laws
-4. Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
-   1. Nicomachean Ethics
-   2. Politics
-   3. Poetics
-   4. Organon
-      1. Categories
-      2. De Interpretatione
-      3. Prior Analytics
-      4. Posterior Analytics
-      5. Topics
-      6. Sophistical Refutations
-   5. Physics
-   6. On the Soul
-   7. Metaphysics
-   8. Rhetoric
+3. Plato: [Eight Essential Dialogues](https://www.amazon.com/Plato-Reader-Essential-Dialogues-Classics-ebook/dp/B00AQZYXNE)
+4. Aristotle: [Introductory Readings](https://www.amazon.com/Aristotle-Introductory-Readings-Hackett-Classics-ebook/dp/B0050OD2QK)
 
 ## Poems, Histories, and Plays
-1. Homer: [Iliad](https://www.amazon.com.au/Iliad-AmazonClassics-Homer-ebook/dp/B072MQ8FL7)
-2. Homer: [Odyssey](https://www.amazon.com.au/Odyssey-AmazonClassics-Homer-ebook/dp/B071JBJTFY)
+For Homer's poems and Sophocles' plays there's no definitive versions.
+
+1. Homer: *Iliad; Odyssey*
 3. *Greek Epic Fragments*
-4. Sophocles: [Antigone; Oedipus the King; Electra](https://www.amazon.com/Worlds-Classics-Antigone-Oedipus-Electra-ebook/dp/B003UES5QY)
+4. Sophocles: *Oedipus the King; Oedipus at Colonus; Antigone*
 5. Hesiod: [Works and Days and Theogony](https://www.amazon.com/Works-Days-Theogony-Hackett-Classics-ebook/dp/B00GIXOS42)
 6. Herodotus: [Histories](https://www.amazon.com/Histories-Oxford-Worlds-Classics-ebook/dp/B007WPNWAG)
 7. Thucydides: [The War of the Peloponnesians and the Athenians](https://www.amazon.com/Thucydides-Cambridge-History-Political-Thought-ebook/dp/B00B9DFAH0)
@@ -107,19 +88,27 @@ the corresponding primary and secondary sources, and so on.
 
 ## Secondary: Presocratics
 1. Guthrie: [The Pythagorean Sourcebook and Library](https://www.amazon.com/Pythagorean-Sourcebook-Library-Pythagoras-Philosophy-ebook/dp/B00796D5RI)
-2. Brann: [The Logos of Heraclitus](https://www.amazon.com/Logos-Heraclitus-Eva-Brann-ebook/dp/B007I6WIJA)
-3. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
-4. Geldard: [Remembering Heraclitus](https://www.amazon.com/Remembering-Heraclitus-Richard-Geldard-ebook/dp/B00AZ0H08U)
-5. Coxon: [The Fragments of Parmenides](https://www.amazon.com/Fragments-Parmenides-Allan-H-Coxon-ebook/dp/B002ZVPTEY)
-6. Wedin: [Parmenides' Grand Deduction](https://www.amazon.com/Parmenides-Grand-Deduction-Logical-Reconstruction-ebook/dp/B00PFXHRU8)
-7. Marmodoro: [Everything in Everything: Anaxagoras' Metaphysics](https://www.amazon.com/Everything-Anaxagorass-Metaphysics-Anna-Marmodoro-ebook/dp/B06WWM3JKP)
-8. Cleve: [The Philosophy of Anaxagoras](https://www.amazon.com/Philosophy-Anaxagoras-F-M-Cleve-ebook/dp/B00FCC2IFG)
-9. Tor: [Mortal and Divine in Early Greek Epistemology](https://www.amazon.com/Mortal-Divine-Early-Greek-Epistemology-ebook/dp/B075V8DFGZ)
+2. Kahn: [The Art and Thought of Heraclitus](https://www.amazon.com/Art-Thought-Heraclitus-Arrangement-Philosophical-ebook/dp/B00IE6MOQK)
+3. Wedin: [Parmenides' Grand Deduction](https://www.amazon.com/Parmenides-Grand-Deduction-Logical-Reconstruction-ebook/dp/B00PFXHRU8)
+4. Marmodoro: [Everything in Everything: Anaxagoras' Metaphysics](https://www.amazon.com/Everything-Anaxagorass-Metaphysics-Anna-Marmodoro-ebook/dp/B06WWM3JKP)
+5. Cleve: [The Philosophy of Anaxagoras](https://www.amazon.com/Philosophy-Anaxagoras-F-M-Cleve-ebook/dp/B00FCC2IFG)
+6. Tor: [Mortal and Divine in Early Greek Epistemology](https://www.amazon.com/Mortal-Divine-Early-Greek-Epistemology-ebook/dp/B075V8DFGZ)
 
 ## Secondary: Socratics
 1. Xenophon: [Memorabilia](https://www.amazon.com/Socratic-Way-Life-Xenophons-Memorabilia-ebook/dp/B07BPBXMFH)
 2. Plato, Aristophanes, Xenophon: [The Trial of Socrates](https://www.amazon.com/Trials-Socrates-Classic-Hackett-Classics-ebook/dp/B00OZ4NNLK)
 3. Stone: [The Trial of Socrates](https://www.amazon.com/Trial-Socrates-I-F-Stone-ebook/dp/B00P94PMKA)
+
+## Platonics
+Plato: [Complete Works](https://www.amazon.com/Plato-Complete-Works-ebook/dp/B00OZ4NMHU)
+
+1. Alcibiades, Lysis, Laches, Charmides
+2. Protagoras, Greater Hippias, Lesser Hippias, Gorgias
+3. Meno, Euthyphro, Apology, Crito
+4. Symposium, Phaedrus, Republic, Phaedo
+5. Cratylus, Ion, Euthydemus, Menexenus
+6. Parmenides, Theaetetus, Sophist, Statesman
+7. Philebus, Timaeus, Critias, Laws
 
 ## Secondary: Platonics
 1. Meinwald: [Plato](https://www.amazon.com/Plato-Routledge-Philosophers-Constance-Meinwald-ebook/dp/B01F8X9FDQ)
@@ -128,6 +117,24 @@ the corresponding primary and secondary sources, and so on.
 4. Fine: [Plato on Knowledge and Forms](https://www.amazon.com/Plato-Knowledge-Forms-Selected-Essays-ebook/dp/B002EZYXVQ)
 5. Broadie: [Nature and Divinity in Plato's Timaeus](https://www.amazon.com/Nature-Divinity-Platos-Timaeus-Broadie-ebook/dp/B006H3TVOK)
 6. Strauss: [The Argument and the Action of Plato's Laws](https://www.amazon.com/Argument-Action-Platos-Laws-ebook/dp/B00R4FQFAI)
+
+## Aristotelian
+Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Translation-One-ebook/dp/B00JW04P64)
+
+1. Nicomachean Ethics
+2. Politics
+3. Poetics
+4. Organon
+   1. Categories
+   2. De Interpretatione
+   3. Prior Analytics
+   4. Posterior Analytics
+   5. Topics
+   6. Sophistical Refutations
+5. Physics
+6. On the Soul
+7. Metaphysics
+8. Rhetoric
 
 ## Secondary: Aristotelian
 1. Shields: [Aristotle](https://www.amazon.com/Aristotle-Routledge-Philosophers-Christopher-Shields-ebook/dp/B00HSMEXKQ)
@@ -252,13 +259,11 @@ the corresponding primary and secondary sources, and so on.
 
 ### Epistemology
 1. Descartes: [Discourse on Method and Meditations on First Philosophy](https://www.amazon.com/Discourse-Meditations-Philosophy-Hackett-Classics-ebook/dp/B00OZ4NQIU)
-2. Locke: [An Essay Concerning Human Understanding](https://www.amazon.com/Essay-Concerning-Understanding-Penguin-Classics-ebook/dp/B002RI9HAM)
-3. Leibniz: [New Essays Concerning Human Understanding](http://www.gutenberg.org/ebooks/40957)
-4. Berkeley: [Three Dialogues between Hylas and Philonous](https://www.amazon.com/Dialogues-Between-Philonous-Hackett-Classics-ebook/dp/B00OZ4NL3A)
-5. Hume: [An Enquiry Concerning Human Understanding](https://www.amazon.com/Enquiry-Concerning-Understanding-Annotated-Classics-ebook/dp/B004L628UY)
+2. Berkeley: [Three Dialogues between Hylas and Philonous](https://www.amazon.com/Dialogues-Between-Philonous-Hackett-Classics-ebook/dp/B00OZ4NL3A)
+3. Hume: [An Enquiry Concerning Human Understanding](https://www.amazon.com/Enquiry-Concerning-Understanding-Annotated-Classics-ebook/dp/B004L628UY)
 
 ### Ontology
-All of [epistemology](#epistemology) minus Locke, Leibniz, and Hume and plus:
+All of [epistemology](#epistemology) minus Hume and plus:
 
 1. Leibniz: [Discourse on Metaphysics and Monadology](https://www.amazon.com/Discourse-Metaphysics-Essays-Hackett-Classics-ebook/dp/B005IL1QMW)
 2. Kant: [Prolegomena to Any Future Metaphysics](https://www.amazon.com/Prolegomena-Any-Future-Metaphysics-February-ebook/dp/B00OZ4NQE4)
