@@ -12,13 +12,10 @@ in order as philosophers usually make reference and build upon previous
 thought. However, if you do read Kenney's history you should be able to
 approach the list from any angle.
 
-On that note, for those without much time, there exists a *core* in this list
-that will be useful if you just want to read mostly primary works and shorter
-works at that. There's no golden road for philosophy but the core should at
-least get you talking at social gatherings with some knowledge to back you up.
-If you do find some philosophy, or philosopher, interesting I would recommend
-you study them thoroughly by reading not only their primary works but those
-secondaries as well.
+On that note, there exists two paths in this list: a *source* and a *gist*. The
+general gist of it is derived from the source and will get you thinking and
+talking philosophically, while the source is far more extensive and should be
+used if you become interested in a particular philosophy.
 
 # Sources
 This list and the reading order were compiled with significant reference to:
@@ -51,13 +48,52 @@ History piecemeal. That is, one can read Part I and then enjoy reading the
 primary and secondary works of Classic Philosophy, then move onto Part II, read
 the corresponding primary and secondary sources, and so on.
 
-# Classical Philosophy
+# Gist
 
-## Core Classical Philosophy
+## Classical Philosophy
+For Plato and Aristotle see [Platonics](#platonics) and
+[Aristotelian](#aristotelian) respectively for the reading order.
+
 1. Hamilton: [Mythology](https://www.amazon.com/Mythology-Timeless-Heroes-Anniversary-Illustrated-ebook/dp/B071S74DXY)
 2. Waterfield: [The First Philosophers](https://www.amazon.com/First-Philosophers-Presocratics-Sophists-Classics-ebook/dp/B0064A4VUA)
 3. Plato: [Eight Essential Dialogues](https://www.amazon.com/Plato-Reader-Essential-Dialogues-Classics-ebook/dp/B00AQZYXNE)
 4. Aristotle: [Introductory Readings](https://www.amazon.com/Aristotle-Introductory-Readings-Hackett-Classics-ebook/dp/B0050OD2QK)
+
+## Christian and Medieval Philosophy
+1. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
+2. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
+3. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
+4. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
+
+## Modern Philosophy
+
+### Epistemology
+1. Descartes: [Discourse on Method and Meditations on First Philosophy](https://www.amazon.com/Discourse-Meditations-Philosophy-Hackett-Classics-ebook/dp/B00OZ4NQIU)
+2. Berkeley: [Three Dialogues between Hylas and Philonous](https://www.amazon.com/Dialogues-Between-Philonous-Hackett-Classics-ebook/dp/B00OZ4NL3A)
+3. Hume: [An Enquiry Concerning Human Understanding](https://www.amazon.com/Enquiry-Concerning-Understanding-Annotated-Classics-ebook/dp/B004L628UY)
+
+### Ontology
+All of [epistemology](#epistemology) minus Hume and plus:
+
+1. Leibniz: [Discourse on Metaphysics and Monadology](https://www.amazon.com/Discourse-Metaphysics-Essays-Hackett-Classics-ebook/dp/B005IL1QMW)
+2. Kant: [Prolegomena to Any Future Metaphysics](https://www.amazon.com/Prolegomena-Any-Future-Metaphysics-February-ebook/dp/B00OZ4NQE4)
+
+### Axiology
+
+#### Aesthetics
+1. Hume: [Of the Standard of Taste](https://www.amazon.com/Standard-Taste-David-Hume-ebook/dp/B07B8SJBYJ)
+2. Kant: [Critique of the Power of Judgement](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
+
+#### Ethics
+1. Hume: [Principles of Morals](https://www.amazon.com/Enquiry-Concerning-Principles-Hackett-Classics-ebook/dp/B00OZ4NIYC)
+2. Kant: [Groundwork for the Metaphysics of Morals](https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy-ebook/dp/B0087GZHYI)
+
+#### Politics
+1. Machiavelli: [The Prince](https://www.amazon.com/Prince-Hackett-Classics-Niccolo-Machiavelli-ebook/dp/B003GEKKZC)
+2. Hobbes: [Leviathan](https://www.amazon.com/Leviathan-Oxford-Worlds-Classics-Thomas-ebook/dp/B0063D7MZO)
+3. Locke: [Two Treatise of Government](https://www.amazon.com/Locke-Treatises-Government-Cambridge-Political-ebook/dp/B00E3UR9Z2)
+
+# Source
 
 ## Poems, Histories, and Plays
 For Homer's poems and Sophocles' plays there's no definitive versions.
@@ -195,14 +231,6 @@ Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Tran
 9. Gersh: [Interpreting Proclus](https://www.amazon.com/Interpreting-Proclus-Renaissance-Stephen-Gersh-ebook/dp/B00M75O52U)
 10. d'Hoine, Martijn: [All From One: A Guide to Proclus](https://www.amazon.com/All-One-Proclus-Pieter-dHoine-ebook/dp/B01NAE0T1C)
 
-# Christian and Medieval Philosophy
-
-## Core Christian and Medieval Philosophy
-1. Augustine: [The Confessions](https://www.amazon.com/Confessions-Oxford-Worlds-Classics-ebook/dp/B00AAW5EDG)
-2. Augustine: [The City of God against the Pagans](https://www.amazon.com/Augustine-against-Cambridge-History-Political-ebook/dp/B00GA22IHA)
-3. Aquinas: [Basic Works](https://www.amazon.com/Aquinas-Basic-Works-Hackett-ebook/dp/B00LG8WMCY)
-4. Aquinas: [On Law, Morality, and Politics](https://www.amazon.com/Morality-Politics-Annotated-Hackett-Classics-ebook/dp/B004EHZPLY)
-
 ## Gnostic Christianity
 1. Pearson: [Ancient Gnosticism](https://www.amazon.com/Ancient-Gnosticism-Traditions-Birger-Pearson-ebook/dp/B001D25X42)
 2. *The Nag Hammadi Library*
@@ -251,36 +279,6 @@ Aristotle: [Complete Works](https://www.amazon.com/Complete-Works-Aristotle-Tran
 3. Carabine: *The Unknown God*
 4. McGinn: [The Mystical Thought of Meister Eckhart](https://www.amazon.com/Mystical-Thought-Meister-Eckhart-Nothing-ebook/dp/B07BLNXWKQ)
 5. Schurmann: [Wandering Joy](https://www.amazon.com/Wandering-Joy-Reiner-Schurmann-ebook/dp/B008062DYM)
-
-# Modern Philosophy
-
-## Core Modern Philosophy
-
-### Epistemology
-1. Descartes: [Discourse on Method and Meditations on First Philosophy](https://www.amazon.com/Discourse-Meditations-Philosophy-Hackett-Classics-ebook/dp/B00OZ4NQIU)
-2. Berkeley: [Three Dialogues between Hylas and Philonous](https://www.amazon.com/Dialogues-Between-Philonous-Hackett-Classics-ebook/dp/B00OZ4NL3A)
-3. Hume: [An Enquiry Concerning Human Understanding](https://www.amazon.com/Enquiry-Concerning-Understanding-Annotated-Classics-ebook/dp/B004L628UY)
-
-### Ontology
-All of [epistemology](#epistemology) minus Hume and plus:
-
-1. Leibniz: [Discourse on Metaphysics and Monadology](https://www.amazon.com/Discourse-Metaphysics-Essays-Hackett-Classics-ebook/dp/B005IL1QMW)
-2. Kant: [Prolegomena to Any Future Metaphysics](https://www.amazon.com/Prolegomena-Any-Future-Metaphysics-February-ebook/dp/B00OZ4NQE4)
-
-### Axiology
-
-#### Aesthetics
-1. Hume: *Of the Standard of Taste*
-2. Kant: [Critique of the Power of Judgement](https://www.amazon.com/Critique-Power-Judgment-Cambridge-Immanuel-ebook/dp/B00CF0JP9U)
-
-#### Ethics
-1. Hume: [Principles of Morals](https://www.amazon.com/Enquiry-Concerning-Principles-Hackett-Classics-ebook/dp/B00OZ4NIYC)
-2. Kant: [Groundwork for the Metaphysics of Morals](https://www.amazon.com/Kant-Groundwork-Metaphysics-Cambridge-Philosophy-ebook/dp/B0087GZHYI)
-
-#### Politics
-1. Machiavelli: [The Prince](https://www.amazon.com/Prince-Hackett-Classics-Niccolo-Machiavelli-ebook/dp/B003GEKKZC)
-2. Hobbes: [Leviathan](https://www.amazon.com/Leviathan-Oxford-Worlds-Classics-Thomas-ebook/dp/B0063D7MZO)
-3. Locke: [Two Treatise of Government](https://www.amazon.com/Locke-Treatises-Government-Cambridge-Political-ebook/dp/B00E3UR9Z2)
 
 ## Early Modern Rationalists
 1. Descarte: [Philosophical Writings I](https://www.amazon.com/Philosophical-Writings-Descartes-1-ebook/dp/B00D2WQ5FW)
